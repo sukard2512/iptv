@@ -627,34 +627,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1group-title="Singapore",CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
-#EXTINF:-1 group-title="INDIA",IN: Zee Cinema HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19623
-#EXTINF:-1 group-title="INDIA",IN:  ZEE ACTION
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19638
-#EXTINF:-1 group-title="INDIA",IN: ZeeTv HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19621
-#EXTINF:-1 group-title="INDIA",IN: Colors
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19650
-#EXTINF:-1 group-title="INDIA",IN:  Star Gold
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19647
-#EXTINF:-1 group-title="INDIA",IN:  Star Plus-HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19646
-#EXTINF:-1 group-title="INDIA",IN: Star Plus UK
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19625
-#EXTINF:-1 group-title="INDIA",IN:  TEN1 HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19641
-#EXTINF:-1 group-title="INDIA",IN:  zee classic
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19637
-#EXTINF:-1 group-title="INDIA",IN: COLORS TV HD ASIA
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19632
-#EXTINF:-1 group-title="INDIA",IN: MovieOK
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19630
-#EXTINF:-1 group-title="INDIA",IN:  Sony TV HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19648
-#EXTINF:-1 group-title="INDIA",IN:  Star Sports1-HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19645
-#EXTINF:-1 group-title="INDIA",IN:  Star Sports2-HD
-http://iptv.iptivihd.com:8000/cemal/sakarya54/19644
+
 
 ########################################    SPORT  #################################
 #EXTINF:-1 group-title="Sports",ASP
