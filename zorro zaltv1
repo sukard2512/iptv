@@ -58,7 +58,7 @@ http://buana.macan.live/tvone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="INDO",TVONE 2
 http://id1.indostreamingtv.com/live/tv444/index.m3u8?fbclid=IwAR3sGNiSBn6sRU_jzwhS3pFl6SDsd13Ta0Pk6CknNmTruLHA9zL6-argvGU
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="INDO",TVONE HD
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFyz7w5iSDfMGhDd5zwC2IQ)/dm/3/x619221/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybMga5rw5O9OBUg6jgElWzXg)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDO",KOMPAS TV 
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -177,7 +177,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1580339315~acl=/hls-p/ingest_206_*
 #EXTINF:-1 group-title="VIDIO HD",KOMPAS TV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1580339369~acl=/hls-p/ingest_874_*/*~hmac=0cc8603508c0648e8259fb7fb313d68a14f47bb632bdebaf2b5bdb9cf49f2bfd/hls-p/ingest_874_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",TVONE HD
-https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybANX8kpgX0X6xCz6AwMv0C4)/dm/3/x619221/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybMga5rw5O9OBUg6jgElWzXg)/dm/3/x619221/s/live-3.m3u8https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybMga5rw5O9OBUg6jgElWzXg)/dm/3/x619221/s/live-3.m3u8b
 #EXTINF:-1 group-title="VIDIO HD",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 #EXTINF:-1 group-title="VIDIO HD",METROTV HD
