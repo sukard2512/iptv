@@ -655,10 +655,48 @@ https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="Sports",True Sport 4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Sports",bein1
+http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1 group-title="Sports",bein2
+http://95.170.215.108:1213/hls/m3u8/beinhd.m3u8
+#EXTINF:-1 group-title="Sports",bein3
+http://xxx3.trainer.pw/mubasher3/trainer.m3u8
+#EXTINF:-1 group-title="Sports",bein4
+http://95.170.215.101/hls/m3u8/Bein-S4-gf.m3u8
+#EXTINF:-1 group-title="Sports",bein5
+http://95.170.215.101/hls/m3u8/Bein-S5-sx.m3u8
+#EXTINF:-1 group-title="Sports",bein6
+http://95.170.215.101/hls/m3u8/Bein-S6-vnb.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORT 1
+http://95.170.215.107/hls/m3u8/KSA-Sport1-Bakup.m3u8
+#EXTINF:-1 group-title="Sports",KSA SPORT 2
+http://95.170.215.107/hls/m3u8/KSA-Sport2-Bakup.m3u8
+#EXTINF:-1 group-title="Sports",SKY MAIN EVEN
+http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT ACTION
+http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT PRIMIER
+http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT FOOTBALL
+http://95.170.215.120/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="Sports",SKY CRICKET
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT NEWS
+http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT ARENA
+http://95.170.215.120/hls/m3u8/Sky-Sports-Arena.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT F1 HD
+http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
+#EXTINF:-1 group-title="Sports",TIVIBU SPORT 1
+http://95.170.215.120/hls/m3u8/Tivi-busport1.m3u8
+#EXTINF:-1 group-title="Sports",TIVIBU SPORT 2
+http://95.170.215.120/hls/m3u8/Tivi-busport2.m3u8
+#EXTINF:-1 group-title="Sports",TIVIBU SPORT 3
+http://95.170.215.120/hls/m3u8/Tivi-busport3.m3u8
+#EXTINF:-1 group-title="Sports",CMORE SPORT
+http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8
+#EXTINF:-1 group-title="Sports",CMORE SPORT FOOTBALL
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="Sports",NBA HD
