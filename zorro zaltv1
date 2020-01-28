@@ -255,16 +255,56 @@ http://210.155.35/session/dd44cb1a-3b40-11e9-a903-92a2ae097d68/qwr9ew/s/s32/02.m
 https://dl.dropboxusercontent.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
 #EXTINF:-1 group-title="USEE PREMIUM",IMC
 https://dl.dropboxusercontent.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
-#EXTINF:-1 group-title="USEE PREMIUM",DUNIA LAIN
-http://tvku.live:8888/ekosatrialki/344drvvcxdey/910
-#EXTINF:-1 group-title="USEE PREMIUM",GALAXY
-http://tvku.live:8888/ekosatrialki/344drvvcxdey/1698
-#EXTINF:-1 group-title="USEE PREMIUM",TMUSIC
-http://tvku.live:8888/ekosatrialki/344drvvcxdey/905
-#EXTINF:-1 group-title="USEE PREMIUM",WAKU WAKU
-http://tvku.live:8888/ekosatrialki/344drvvcxdey/14166
-#EXTINF:-1 group-title="USEE PREMIUM",FOX ACTION MOVIE
-http://tvku.live:8888/ekosatrialki/344drvvcxdey/3641
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Bein Sports 1" tvg-logo="" group-title="USEE PREMIUM",ID: Bein Sports 1
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50042
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Bein Sports 2" tvg-logo="" group-title="USEE PREMIUM",ID: Bein Sports 2
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50023
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Dunia Lain" tvg-logo="" group-title="USEE PREMIUM",ID: Dunia Lain
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50102
+#EXTINF:-1 tvg-ID="" tvg-name="ID: TMusic" tvg-logo="" group-title="USEE PREMIUM",ID: TMusic
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50097
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Khazanah" tvg-logo="" group-title="USEE PREMIUM",ID: Khazanah
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50090
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Bioskop Indonesia" tvg-logo="" group-title="USEE PREMIUM",ID: Bioskop Indonesia
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50088
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Dunia anak" tvg-logo="" group-title="USEE PREMIUM",ID: Dunia anak
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50087
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Galaxy" tvg-logo="" group-title="USEE PREMIUM",ID: Galaxy
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50083
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Pelangi" tvg-logo="" group-title="USEE PREMIUM",ID: Pelangi
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50082
+#EXTINF:-1 tvg-ID="" tvg-name="ID: SCM Legend" tvg-logo="" group-title="USEE PREMIUM",ID: SCM Legend
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50068
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Fox Movies Action" tvg-logo="" group-title="USEE PREMIUM",ID: Fox Movies Action
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50066
+#EXTINF:-1 tvg-ID="" tvg-name="ID: BBC Earth" tvg-logo="" group-title="USEE PREMIUM",ID: BBC Earth
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50048
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Waku Waku Japan" tvg-logo="" group-title="USEE PREMIUM",ID: Waku Waku Japan
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50034
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Fox Movies" tvg-logo="" group-title="USEE PREMIUM",ID: Fox Movies
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50020
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Fox Family Movies" tvg-logo="" group-title="USEE PREMIUM",ID: Fox Family Movies
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50017
+#EXTINF:-1 tvg-ID="" tvg-name="ID: TVN Movies" tvg-logo="" group-title="USEE PREMIUM",ID: TVN Movies
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50014
+#EXTINF:-1 tvg-ID="" tvg-name="ID: WarnerTV" tvg-logo="" group-title="USEE PREMIUM",ID: WarnerTV
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/50010
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Kids Channel" tvg-logo="" group-title="USEE PREMIUM",ID: Kids Channel
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/49952
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Music Channel" tvg-logo="" group-title="USEE PREMIUM",ID: Music Channel
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/49950
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 4
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/52583
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 3
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/52582
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 2
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/52581
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Malaysia",MY: ASTRO SUPERSPORTS 1
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/52580
+#EXTINF:-1 tvg-ID="" tvg-name="MY:  ARENA HD" tvg-logo="https://cdn.imgbin.com/22/13/16/imgbin-astro-supersport-astro-arena-television-channel-others-L3PJMbsNDTusZh58R2apEqbS9.jpg" group-title="Malaysia",MY:  ARENA HD
+http://iptv-line.com:7899/mHnJ2xdFGT/rVwzhctZew/53863
+
+
 
 ######################################### KLIP MUSIK   #################################
 #EXTINF:-1 group-title="KLIP MUSIC",Sementara
