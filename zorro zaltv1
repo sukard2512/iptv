@@ -169,57 +169,58 @@ http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist_w146491720_
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 ######################################### VIDIO  #################################
 #EXTINF:-1 group-title="VIDIO HD",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193155~acl=/hls-p/ingest_204_*/*~hmac=08e009bc3049cfdb03a5745f06e3ef16894de23903638423b07f97925d0a5bfd/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339194~acl=/hls-p/ingest_204_*/*~hmac=3fb5af0e5793ad360f298cf9e81b22814b981726801a07d5e53a07ec1707459d/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",INDOSIAR HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193220~acl=/hls-p/ingest_205_*/*~hmac=dc0061f8ad92255b40d898993fd3e1042d9743afd0645c5ce402b288faca5103/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339258~acl=/hls-p/ingest_205_*/*~hmac=36854eb83818cfe4c5c63b7d5a8379eac197b50189e27e953b69a98eaae670cd/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",O CHANNEL HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193273~acl=/hls-p/ingest_206_*/*~hmac=75b4631242ba7fd2e4747c921231073cea6abb5ec6e4de16e1631fbecb82af6a/hls-p/ingest_206_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339315~acl=/hls-p/ingest_206_*/*~hmac=1a427de0665bdae14bf97a35079dfdb50cb9dd31ab841aef9693fbe668f514af/hls-p/ingest_206_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",KOMPAS TV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193327~acl=/hls-p/ingest_874_*/*~hmac=98257f3fc810b880c31c8b46c902f242ca1ba58ad6ebfffcafcb1aefeee2bed6/hls-p/ingest_874_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339369~acl=/hls-p/ingest_874_*/*~hmac=0cc8603508c0648e8259fb7fb313d68a14f47bb632bdebaf2b5bdb9cf49f2bfd/hls-p/ingest_874_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",TVONE HD
 https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybANX8kpgX0X6xCz6AwMv0C4)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:-1 group-title="VIDIO HD",BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 #EXTINF:-1 group-title="VIDIO HD",METROTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193397~acl=/hls-p/ingest_777_*/*~hmac=96915fb87f215940c6b82c31494613a8d952f2acf40b4e12cd16add0c4025ebb/hls-p/ingest_777_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339432~acl=/hls-p/ingest_777_*/*~hmac=b11036748ba8a241eda1ef0b4a31a29e4e32c8aa2334caf6a30bd629bba2cc92/hls-p/ingest_777_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",TRANSTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193489~acl=/hls-p/ingest_733_*/*~hmac=968860de3fdb786da4fbd9cab4037b22bef1b86ebd4b25c9f1498afff11da148/hls-p/ingest_733_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339488~acl=/hls-p/ingest_733_*/*~hmac=ded2919f3894fd2eccacb86c8587e5ab8802157b9ea2de41fd12a9b3b263f646/hls-p/ingest_733_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",RCTI HD
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 group-title="VIDIO HD",TRANS7 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193576~acl=/hls-p/ingest_734_*/*~hmac=a42935ef62c91dfbfb93d3e59f2b246615ded0356f0ed00be40abaf39f953301/hls-p/ingest_734_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339545~acl=/hls-p/ingest_734_*/*~hmac=4a5bf8ddb1f1519f7558c36d1f26b467cafaea6eab66bb200145b19bafe25237/hls-p/ingest_734_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="VIDIO HD",ANTV HD
 http://210.210.155.35/session/9d97b132-a94d-11e9-b311-c81f66f89318/qwr9ew/s/s102/02.m3u8
 #EXTINF:-1 group-title="VIDIO HD",MNCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193635~acl=/hls-p/ingest_870_*/*~hmac=59f1df5f477681917854179baffa65347acf832cbd248c034f08677bbda294da/hls-p/ingest_870_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339610~acl=/hls-p/ingest_870_*/*~hmac=576cdb29350b6ff7f3892ec93bd0a4732cd59bf3141e9956fac781f0084a173f/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",GTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193686~acl=/hls-p/ingest_778_*/*~hmac=4954f059b4afbefa15da7dc7ed118d3d7fd5b010cdb3b1c6eb6b86ab05052e2c/hls-p/ingest_778_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339672~acl=/hls-p/ingest_778_*/*~hmac=c0abc94097a861ec9c0ee68756e20398d580e8c785d1952832033ef2fe23b776/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",NET HD
-https://etslive-2-vidio-com.akamaized.net/exp=1580193735~acl=/hls-p/ingest_875_*/*~hmac=92a68c7432debd13b6d2c319eed9319e1acc5e0f1960b62d2fde786e26aab131/hls-p/ingest_875_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339723~acl=/hls-p/ingest_875_*/*~hmac=b452597018179f70aa7831eb3b11efa7f05541a1f9b5135728823778d1d3d4ca/hls-p/ingest_875_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",LOVE NATURE
-https://etslive-2-vidio-com.akamaized.net/exp=1580224427~acl=/hls-p/ingest_geo_6635_*/*~hmac=3e955f5dab7dd3ea1c64f30a775ad6bdc40c098e25aeb93eaa71bc402a58f5c9/hls-p/ingest_geo_6635_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339787~acl=/hls-p/ingest_geo_6635_*/*~hmac=1a9a8ee4582da4cdccc73fbdb84e852b1a2ac9d44fe4db5c25a64ca48bcce67c/hls-p/ingest_geo_6635_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",CITRA BIOSKOP
-https://etslive-2-vidio-com.akamaized.net/exp=1580224502~acl=/hls-p/ingest_geo_6684_*/*~hmac=1f33de25419f326cdd4d93cc93689ce633a43e6cae894ccd48c70048acdee0bb/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339895~acl=/hls-p/ingest_geo_6684_*/*~hmac=1ee2e1083a59ddc6fa7fa7b218de8af85a4120a95629d1495669bb9a582ca468/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",TVN
-https://etslive-2-vidio-com.akamaized.net/exp=1580224608~acl=/hls-p/ingest_geo_6362_*/*~hmac=cdfc40686e2e67ca6b64e128a52f038d0db9d922985e4ad90bdda13115a3ef32/hls-p/ingest_geo_6362_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580339971~acl=/hls-p/ingest_geo_6362_*/*~hmac=7a66b073b8146eed0462d1a0c0a133ab953b1ce5c6cbace07c8e5bb6c671e3c4/hls-p/ingest_geo_6362_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",CITRA DRAMA
-https://etslive-2-vidio-com.akamaized.net/exp=1580224667~acl=/hls-p/ingest_geo_6401_*/*~hmac=daa8598cdf8cc194443e608924b23ecbfac2e22efe4639c82dc4544346a3a715/hls-p/ingest_geo_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340030~acl=/hls-p/ingest_geo_6401_*/*~hmac=c5c330bffe2ffa3270e47245071b97bde3cdb10fba8985c28b3ffc1bcc461c43/hls-p/ingest_geo_6401_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",CITRA DANGDUT
-https://etslive-2-vidio-com.akamaized.net/exp=1580224736~acl=/hls-p/ingest_geo_6587_*/*~hmac=0453882a31ca589a3f13418c533a9fe87e7c1fb80a065b01c96c06a3cc2111a9/hls-p/ingest_geo_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340084~acl=/hls-p/ingest_geo_6587_*/*~hmac=63bf43169ea802b1fc2747cdc3fa0053557784eb7f747f4b98bf2f3b1fd80d16/hls-p/ingest_geo_6587_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",CITRA ENTERTAIMENT
-https://etslive-2-vidio-com.akamaized.net/exp=1580224924~acl=/hls-p/ingest_geo_6402_*/*~hmac=646f54d6a829ff0be84a49f4e86379ba69139aca041830260c7283e863a214de/hls-p/ingest_geo_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340215~acl=/hls-p/ingest_geo_6402_*/*~hmac=8aec0c4555dc772af8fd2e2768ccb3123ff42d6273acc59488c58e69b92bbcf9/hls-p/ingest_geo_6402_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",ZING
-https://etslive-2-vidio-com.akamaized.net/exp=1580224856~acl=/hls-p/ingest_geo_6747_*/*~hmac=3909e586a54b6fec75577aa124ee53e03e554c7a05c669effa408e4b5c8f84e5/hls-p/ingest_geo_6747_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340278~acl=/hls-p/ingest_geo_6747_*/*~hmac=e4798f5ed21faa8cae31ed392bc93e676da9014347d1481edcae2c9cd06e6693/hls-p/ingest_geo_6747_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",ZOOMO TV
-https://etslive-2-vidio-com.akamaized.net/exp=1580225032~acl=/hls-p/ingest_geo_6533_*/*~hmac=2d720b448d43d7e432f69bcfde980102a0bc433aadbf8d8ea361f6bae96aedfc/hls-p/ingest_geo_6533_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340418~acl=/hls-p/ingest_geo_6533_*/*~hmac=7b7b37ac317e62c855afeaa65b3e6caedaebab04981425f3fe24607583e25bad/hls-p/ingest_geo_6533_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",CITRA MUSLIM
-https://etslive-2-vidio-com.akamaized.net/exp=1580225122~acl=/hls-p/ingest_geo_6678_*/*~hmac=140f510a1dbdf8983942d90359af885615dc0f0c31f1a5ae67f498c5f356a1df/hls-p/ingest_geo_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340509~acl=/hls-p/ingest_geo_6678_*/*~hmac=b57467efcf3484cac437532e328640be81b94c035b4cf3914cd66ac70e0989aa/hls-p/ingest_geo_6678_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",DA VINCI
-https://etslive-2-vidio-com.akamaized.net/exp=1580225292~acl=/hls-p/ingest_geo_6549_*/*~hmac=3e6694ba39e11636305105dcb7e33015352e8b0b86561db90d5d491295a29d8e/hls-p/ingest_geo_6549_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340563~acl=/hls-p/ingest_geo_6549_*/*~hmac=c4afe05d10db86583b6a763adf9d961944b81064f94a50b83d36b0d10d550e63/hls-p/ingest_geo_6549_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",HOREE
-https://etslive-2-vidio-com.akamaized.net/exp=1580225421~acl=/hls-p/ingest_geo_6397_*/*~hmac=6c7ceb36ddc8552b38cdebe285efdd804588e2e45280a77ab86cfc14bdc8e037/hls-p/ingest_geo_6397_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340709~acl=/hls-p/ingest_geo_6397_*/*~hmac=4ddc7bf057bd5819621cd62489203e7773bc0f67231977fd6cd9bc47fbbeccc1/hls-p/ingest_geo_6397_720p/index.m3u8
 #EXTINF:-1 group-title="VIDIO HD",SMITHSONIAN
-https://etslive-2-vidio-com.akamaized.net/exp=1580225360~acl=/hls-p/ingest_geo_6550_*/*~hmac=6d512821ecadc478752838c7852cc9f745b77699b9269622912c16bb1d5434bf/hls-p/ingest_geo_6550_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1580340637~acl=/hls-p/ingest_geo_6550_*/*~hmac=f19978125bf633f304abae01721dddbfd76a10509d1f9639f24b6c5d3969cad1/hls-p/ingest_geo_6550_720p/index.m3u8
+
 
 ######################################### USEETV  #################################
 #EXTINF:-1 group-title="USEE PREMIUM",USEE PRIME
