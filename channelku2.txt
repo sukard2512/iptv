@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png"group-title="MOVIES",FOX ACTION MOVIE
+https://bit.ly/fxactionzorro02
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png"group-title="MOVIES",FOX MOVIES
+https://bit.ly/fmovieszorro002
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png"group-title="MOVIES",FOX MOVIES ASIA
+https://bit.ly/fasiazorro002
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/fox-crime.png"group-title="MOVIES",FOX CRIME
+https://bit.ly/fcrime3zorro002
+#EXTINF:-1 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png"group-title="MOVIES",CINEMAX
+https://bit.ly/cinemaxzorro002
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MOVIES",Sony Movies Action
+https://bit.ly/smvactionzorro002
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg"group-title="Sports",BEIN SPORS 1
+https://bit.ly/bein1zorro002
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg"group-title="Sports",BEIN SPORTS 2
+https://bit.ly/bein2zorro002
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg"group-title="Sports",BEIN SPORTS 3
+https://bit.ly/bein3zorro002
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg"group-title="Sports",BEIN SPORTS 4
+https://bit.ly/bein4zorro002
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg"group-title="Sports",ASP 1
+https://bit.ly/asp1zorro002
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
+https://bit.ly/antvzorro002
+#EXTINF:-1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="LOKAL",TVONE HD
+https://bit.ly/tvonezorro002
