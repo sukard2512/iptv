@@ -1,0 +1,3 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
