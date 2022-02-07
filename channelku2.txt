@@ -421,6 +421,8 @@ https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145882
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145883
 #EXTINF: -1 tvg-logo="TEST" group-title="TV MUSIC", TMUSIC
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145884
+#EXTINF: -1 group-title="TV MUSIC", MUSIKA
+https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/493142830
 #EXTINF: -1 tvg-logo="TEST" group-title="TV MUSIC", MAXstream Music
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145885
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="TV MUSIC", Citra Dangdut
