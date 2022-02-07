@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF: -1 group-title="INDO",TEST
-https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145688
 #EXTINF: -1 group-title="INDO", CHANNEL INFO
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145688
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 1
