@@ -3705,6 +3705,27 @@ https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/493038066
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/493038067
 #EXTINF: -1 tvg-name="CN: 龙岩综合 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="China", CN: 龙岩综合 HD
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/493038068
+#EXTINF:-1 tvg-id="" tvg-name="JP010:Fuji TV" tvg-logo="" group-title="Japan",JP010:Fuji TV
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51847
+#EXTINF:-1 tvg-id="" tvg-name="JP011:CNAJapan" tvg-logo="" group-title="Japan",JP011:CNAJapan
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51846
+#EXTINF:-1 tvg-id="" tvg-name="JP012:BSFuji" tvg-logo="" group-title="Japan",JP012:BSFuji
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51845
+#EXTINF:-1 tvg-id="" tvg-name="JP013:BS-181" tvg-logo="" group-title="Japan",JP013:BS-181
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51844
+#EXTINF:-1 tvg-id="" tvg-name="JP014:BSフジ.181" tvg-logo="" group-title="Japan",JP014:BSフジ.181
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51843
+#EXTINF:-1 tvg-id="" tvg-name="JP015:BSジャパン" tvg-logo="" group-title="Japan",JP015:BSジャパン
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51842
+#EXTINF:-1 tvg-id="" tvg-name="JP016:TBS" tvg-logo="" group-title="Japan",JP016:TBS
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51841
+#EXTINF:-1 tvg-id="" tvg-name="JP017:TOKYOMX" tvg-logo="" group-title="Japan",JP017:TOKYOMX
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51840
+#EXTINF:-1 tvg-id="" tvg-name="JP018:テレビ朝日" tvg-logo="" group-title="Japan",JP018:テレビ朝日
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51839
+#EXTINF:-1 tvg-id="" tvg-name="JP019:テレビ東京" tvg-logo="" group-title="Japan",JP019:テレビ東京
+http://mudy02.cularu.com:8880/SDY12M3N1272/Y12M3N1272/51838
+
 #EXTINF: -1 tvg-name="AU001:ABC Perth" group-title="Australia", AU001:ABC Perth
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/493038069
 #EXTINF: -1 tvg-name="AU002:9 Rush Brisbane" group-title="Australia", AU002:9 Rush Brisbane
