@@ -471,16 +471,7 @@ https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145906
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145907
 #EXTINF: -1 group-title="LIVE", SPORTTV 5 HD
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145908
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145909
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145910
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145911
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145912
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145913
+
 #EXTINF: -1 group-title="LIVE", LIVE ZORRO
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145914
 #EXTINF: -1 group-title="LIVE", LIVE ZORRO
