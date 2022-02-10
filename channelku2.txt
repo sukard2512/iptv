@@ -45,6 +45,8 @@ https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145702
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145703
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDO", INEWS2
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145704
+#EXTINF: -1 group-title="INDO", MNC NEWS
+https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/494963844
 #EXTINF: -1 group-title="INDO", O CHANNEL
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492145705
 #EXTINF: -1 tvg-name="Ochannel" tvg-logo="http://x1.cdn.broiptv.com/img/ochannel.png" group-title="INDO", Ochannel
@@ -756,6 +758,8 @@ https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146047
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146048
 #EXTINF: -1 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL", HOREE
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146049
+#EXTINF: -1 group-title="KIDS CHANNEL", HIP HIP HOREE
+https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/494946011
 #EXTINF: -1 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL", DISNEY CHANNEL
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146050
 #EXTINF: -1 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL", DISNEY CHANNEL BACK
@@ -1001,6 +1005,8 @@ https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146153
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146154
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/flik.png" tvg-logo-small="http://185.238.0.145:1313/uploads/tv_image/sm/chinese-drama.png" group-title="movie", CHINESE DRAMA
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146155
+#EXTINF: -1 group-title="movie", CHINESE DRAMA BACK
+https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/494963843
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/warner-tv.png" group-title="movie", WARNER TV
 https://m3u-editor.com/serve/8747f2d0-8718-11ec-b4ee-9b20035793c4/492146156
 #EXTINF: -1 group-title="movie", WARNER TV back
