@@ -939,7 +939,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117554
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movie", thrill
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117555
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movie", thrill 2
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117556
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176751
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movie", thrill 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117557
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/my-cinema.png" group-title="movie", MY CINEMA
@@ -947,7 +947,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117558
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/my-cinema.png" group-title="movie", MYCE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117559
 #EXTINF: -1 group-title="movie", CINEMA WORLD
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117560
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176755https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176755https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176755
 #EXTINF: -1 group-title="movie", CINEMA WORLD 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117561
 #EXTINF: -1 group-title="movie", CINEMA WORLD 3
@@ -969,7 +969,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117567
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="movie", Cinemax 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117568
 #EXTINF: -1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="movie", HBO FHD
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117569
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176764
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="movie", HBO 1
@@ -979,7 +979,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117570
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movie", HBO 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117571
 #EXTINF: -1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="movie", HBO Hits FHD
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117572
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176767
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="movie", HBO Hits 1
@@ -989,7 +989,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117573
 #EXTINF: -1 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="movie", HBO Hits 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117574
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="movie", HBO Signature FHD
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117575
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176770
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="movie", HBO Signature 1
@@ -999,7 +999,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117576
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="movie", HBO Signature 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117577
 #EXTINF: -1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="movie", HBO Family FHD
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117578
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176773
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="movie", HBO Family 1
@@ -1077,7 +1077,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117615
 #EXTINF: -1 group-title="Knowledge", SCIENCE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117616
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge", NATGEO WILD 1
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117617
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176812
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge", NATGEO WILD 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117618
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge", NATGEO WILD 3
@@ -1087,7 +1087,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117620
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge", NATIONAL GEOGRAPHIC 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117621
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge", NATIONAL GEOGRAPHIC 3
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117622
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176817
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png" group-title="Knowledge", discovery
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117623
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png" group-title="Knowledge", discovery Asia
@@ -1207,7 +1207,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117644
 #EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117645
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117646
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176841
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117647
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-ikim.png" group-title="MALAYSIA", IKIM
@@ -2318,26 +2318,44 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118199
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118200
 #EXTINF: -1 tvg-name="TH089:Super Bunteung" group-title="Thailand", TH089:Super Bunteung
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118201
+#EXTINF: -1 tvg-name="JP001:NKH-BS1" group-title="Japan", JP001:NKH-BS1
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224250
+#EXTINF: -1 tvg-name="JP002:Nippon TV" group-title="Japan", JP002:Nippon TV
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224251
+#EXTINF: -1 tvg-name="JP003:NHKWorld" group-title="Japan", JP003:NHKWorld
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224252
+#EXTINF: -1 tvg-name="JP004:NHKHuaYuShiJie" group-title="Japan", JP004:NHKHuaYuShiJie
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224253
+#EXTINF: -1 tvg-name="JP005:NHK-Osaka" group-title="Japan", JP005:NHK-Osaka
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224254
+#EXTINF: -1 tvg-name="JP006:NHKGeneral" group-title="Japan", JP006:NHKGeneral
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224255
+#EXTINF: -1 tvg-name="JP007:TV Osaka" group-title="Japan", JP007:TV Osaka
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224256
+#EXTINF: -1 tvg-name="JP008:Tokyo MX2" group-title="Japan", JP008:Tokyo MX2
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224257
+#EXTINF: -1 tvg-name="JP009:Jet TV" group-title="Japan", JP009:Jet TV
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224258
 #EXTINF: -1 tvg-name="JP010:Fuji TV" group-title="Japan", JP010:Fuji TV
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118202
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224259
 #EXTINF: -1 tvg-name="JP011:CNAJapan" group-title="Japan", JP011:CNAJapan
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118203
-#EXTINF: -1 tvg-name="JP012:BSFuji" group-title="Japan", JP012:BSFuji
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118204
-#EXTINF: -1 tvg-name="JP013:BS-181" group-title="Japan", JP013:BS-181
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118205
-#EXTINF: -1 tvg-name="JP014:BSフジ.181" group-title="Japan", JP014:BSフジ.181
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118206
-#EXTINF: -1 tvg-name="JP015:BSジャパン" group-title="Japan", JP015:BSジャパン
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118207
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224260
+#EXTINF: -1 tvg-name="JP012:MBS" group-title="Japan", JP012:MBS
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224261
+#EXTINF: -1 tvg-name="JP013:NHKPLUS" group-title="Japan", JP013:NHKPLUS
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224262
+#EXTINF: -1 tvg-name="JP014:ATX" group-title="Japan", JP014:ATX
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224263
+#EXTINF: -1 tvg-name="JP015:Family Gekijo" group-title="Japan", JP015:Family Gekijo
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224264
 #EXTINF: -1 tvg-name="JP016:TBS" group-title="Japan", JP016:TBS
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118208
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224265
 #EXTINF: -1 tvg-name="JP017:TOKYOMX" group-title="Japan", JP017:TOKYOMX
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118209
-#EXTINF: -1 tvg-name="JP018:テレビ朝日" group-title="Japan", JP018:テレビ朝日
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118210
-#EXTINF: -1 tvg-name="JP019:テレビ東京" group-title="Japan", JP019:テレビ東京
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118211
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224266
+#EXTINF: -1 tvg-name="JP018:TV Tokyo" group-title="Japan", JP018:TV Tokyo
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224267
+#EXTINF: -1 tvg-name="JP019:Shop Channel" group-title="Japan", JP019:Shop Channel
+https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224268
 #EXTINF: -1 tvg-name="AU001:ABC Perth" group-title="Australia", AU001:ABC Perth
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118212
 #EXTINF: -1 tvg-name="AU002:9 Rush Brisbane" group-title="Australia", AU002:9 Rush Brisbane
