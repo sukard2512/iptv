@@ -463,10 +463,6 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117334
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117335
 #EXTINF: -1 group-title="LIVE", TRUE VISION
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117336
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117337
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117338
 #EXTINF: -1 tvg-name="MY: Astro SuperSport 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LIVE", Astro SuperSport 5 HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117339
 #EXTINF: -1 tvg-name="TH: True PREMIER FOOTBALL 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LIVE", True PREMIER FOOTBALL 1 HD
@@ -483,10 +479,6 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117344
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117345
 #EXTINF: -1 group-title="LIVE", SPORTTV 5 HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117346
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117347
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117348
 #EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="LIVE", UK: BT Sport 1 FHD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117349
 #EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK BT Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="LIVE", UK BT Sport 1 FHD
@@ -969,7 +961,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117567
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="movie", Cinemax 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117568
 #EXTINF: -1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="movie", HBO FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176764
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117569
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="movie", HBO 1
@@ -979,7 +971,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117570
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movie", HBO 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117571
 #EXTINF: -1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="movie", HBO Hits FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176767
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117572
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="movie", HBO Hits 1
@@ -989,7 +981,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117573
 #EXTINF: -1 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="movie", HBO Hits 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117574
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="movie", HBO Signature FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176770
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117575
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="movie", HBO Signature 1
@@ -999,7 +991,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117576
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="movie", HBO Signature 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117577
 #EXTINF: -1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="movie", HBO Family FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176773
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117578
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="movie", HBO Family 1
