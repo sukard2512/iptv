@@ -1,40 +1,9 @@
-#EXTM3U 
-#EXTINF: -1 group-title="INDO", CHANNEL INFO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117123
-#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 1
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117124
-#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 2
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117125
-#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV DENS
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117126
-#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/trans7.png" group-title="INDO", TRANS 7
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117127
-#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/trans7.png" group-title="INDO", TRANS 7 LIVE
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117128
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="MNCTV.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png" group-title="INDO",MNCTV PREM
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDO", MNCTV 1
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117129
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDO", MNCTV 2
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117130
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDO", MNCTV 3
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117131
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="INDO",RCTI PREM
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="INDO", RCTI 1
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117132
 #EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="INDO", RCTI 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117133
 #EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="INDO", RCTI 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117134
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/GTV_(2017).svg/revision/latest/scale-to-width-down/300?cb=20180321091517" group-title="INDO",GTV PREM
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDO", GTV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117135
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDO", GTV2
@@ -67,20 +36,12 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117148
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117149
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117150
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Antv_logo_(2017).svg/revision/latest/scale-to-width-down/200?cb=20180407053038" group-title="INDO",ANTV PREM
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117151
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117152
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117153
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/NET..svg/revision/latest/scale-to-width-down/350?cb=20210823120739" group-title="INDO",NET PREM
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="INDO", NET TV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117154
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="INDO", NET TV 2
@@ -99,10 +60,6 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117160
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117161
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="INDO", METRO TV2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117162
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/200px-TvOne_logo_2012.svg.png" group-title="INDO",TVONE PREM
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE 1
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117163
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE 2
@@ -111,10 +68,6 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117164
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117165
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117166
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://image1ws.indotrading.com/s3/webp/co51405/companylogo/w400-h220/42734bec-3364-4bac-a710-0a62b1d1c3af.jpg" group-title="INDO",Kompas TV PREM
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDO", KOMPAS TV VIDIO
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117167
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDO", KOMPAS TV
@@ -445,28 +398,16 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117329
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117330
 #EXTINF: -1 group-title="TV MUSIC", POP MUSIK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117331
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="MOTOGP", SPOTV 1 HD
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF: -1 tvg-logo="http://cloudserver.server-cdn-streaming.com/live-player/11/1634022552-27CDF3C5-71BB2109.png" group-title="MOTOGP", SPOTV 1
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117332
 #EXTINF: -1 tvg-logo="http://cloudserver.server-cdn-streaming.com/live-player/11/1634022552-27CDF3C5-71BB2109.png" group-title="MOTOGP", SPOTV 1 BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117333
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="MOTOGP", SPOTV 2 HD
-https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF: -1 tvg-logo="http://cloudserver.server-cdn-streaming.com/live-player/13/1634022646-95504396-33665F1D.png" group-title="MOTOGP", SPOTV 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117334
 #EXTINF: -1 tvg-logo="http://cloudserver.server-cdn-streaming.com/live-player/13/1634022646-95504396-33665F1D.png" group-title="MOTOGP", SPOTV 2 BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117335
 #EXTINF: -1 group-title="LIVE", TRUE VISION
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117336
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117337
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117338
 #EXTINF: -1 tvg-name="MY: Astro SuperSport 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LIVE", Astro SuperSport 5 HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117339
 #EXTINF: -1 tvg-name="TH: True PREMIER FOOTBALL 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LIVE", True PREMIER FOOTBALL 1 HD
@@ -483,10 +424,6 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117344
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117345
 #EXTINF: -1 group-title="LIVE", SPORTTV 5 HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117346
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117347
-#EXTINF: -1 group-title="LIVE", LIVE ZORRO
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117348
 #EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="LIVE", UK: BT Sport 1 FHD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117349
 #EXTINF: -1 tvg-id="btsport1.uk" tvg-name="UK BT Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="LIVE", UK BT Sport 1 FHD
@@ -519,10 +456,8 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117362
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117363
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="Sport Indo", Usee Sports 2 BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117364
-#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/Soccer-Channel.jpg" group-title="Sport Indo",SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF: -1 group-title="Sport Indo", SOCCER CHANNEL
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117365
 #EXTINF: -1 group-title="Sport Indo", CHAMPION1
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117366
 #EXTINF: -1 group-title="Sport Indo", CHAMPION1 BACK
@@ -537,14 +472,8 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117370
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117371
 #EXTINF: -1 group-title="Sport Indo", CHAMPION4
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117372
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/okit2fwcg7q7nkr/mncsport.jpg?dl=1" group-title="Sport Indo",Mnc Sport
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://on-load.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mncsports.png" group-title="",Mnc Sport 2
-https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpdSport Indo
+#EXTINF: -1 tvg-name="ID MNC Sports" group-title="Sport Indo", ID MNC Sports
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117373
 #EXTINF: -1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132645true-premier-football-hd-1-7xb25gctand1.png" group-title="Sport Indo", True Premier 1
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117374
 #EXTINF: -1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312131955true-premier-football-hd-2-0oi36lekmq9m.png" group-title="Sport Indo", True Premier 2
@@ -679,21 +608,12 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117438
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117439
 #EXTINF: -1 group-title="Sport Indo", PPV Fut1 ENG
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117440
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/nf4n7zN/a.jpg" group-title="Sport Indo", Astrakhan.ru Sport HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117449
 #EXTINF: -1 tvg-logo="https://i.ibb.co/nf4n7zN/a.jpg" group-title="Sport Indo", Astrakhan.ru Sport HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117450
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN MEDIA", BEIN1 ASIA
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117451
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="BEIN MEDIA", BEIN2 ASIA HD
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="BEIN MEDIA", BEIN2 ASIA HD
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN MEDIA", BEIN2 ASIA
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117452
 #EXTINF: -1 tvg-id="21.junior.al" tvg-name="BN022:BEIN SPORTS Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN022BeinSport15.png" group-title="BEIN MEDIA", BN022:BEIN SPORTS Premium 1
@@ -794,20 +714,12 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117499
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117500
 #EXTINF: -1 group-title="KIDS CHANNEL", HIP HIP HOREE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117501
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/visionprime.png" group-title="intertaiment",Vision Prime HD
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF: -1 tvg-name="ID Vision Prime" group-title="intertaiment", ID Vision Prime
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117502
 #EXTINF: -1 group-title="intertaiment", ID Vision Prime Back
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117503
 #EXTINF: -1 group-title="intertaiment", USEE PRIME
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117504
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" group-title="intertaiment",OKTV HD
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF: -1 tvg-name="ID Vision Prime" group-title="intertaiment", OKTV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117505
 #EXTINF: -1 group-title="intertaiment", Citra Entertainment
@@ -842,22 +754,10 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117519
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117520
 #EXTINF: -1 tvg-name="ID FMN" group-title="movie", FMN BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117521
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/xingxong.png" group-title="movie",Xingkong TV hd
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF: -1 tvg-name="ID Xing Kong TV" group-title="movie", Xing Kong TV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117522
 #EXTINF: -1 tvg-name="ID Xing Kong TV" group-title="movie", Xing Kong TV Back
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117523
-#EXTINF: -1 tvg-id="21.junior.al" tvg-name="BN024:FOX Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN024BeINJunior.png" group-title="movie", FOX Movie
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117524
-#EXTINF: -1 group-title="movie", MOVIE +
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117610
-#EXTINF: -1 group-title="movie", BOLLYWOOD+
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117611
-#EXTINF: -1 tvg-id="21.junior.al" tvg-name="BN026:FOX Action Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN026BeINSeries.png" group-title="movie", FOX Action Movie
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117525
 #EXTINF: -1 group-title="movie", SHOW CASE MOVIES
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117526
 #EXTINF: -1 group-title="movie", AXN
@@ -868,16 +768,12 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117528
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117529
 #EXTINF: -1 tvg-name="Sony Gem" group-title="movie", PRIME TIME
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117530
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/W1NXb7v1/sony-gem.jpg" group-title="movie", Sony GEM HD2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W1NXb7v1/sony-gem.jpg" group-title="movie", Sony GEM HD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117531
 #EXTINF: -1 tvg-id="SONY PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="movie", Sony PIX
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117532
 #EXTINF: -1 tvg-id="SONY PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="movie", Sony PIX BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117533
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="movie",CCM HD
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="movie", CCM
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117534
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="movie", CCM 2
@@ -902,34 +798,18 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117543
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117544
 #EXTINF: -1 group-title="movie", SINEMA INDONESIA
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117545
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="movie",CELESTIAL MOVIE HD
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="movie", CELESTIAL MOVIE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117546
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="movie", CELESTIAL MOVIE 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117547
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="movie", CELESTIAL MOVIE 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117548
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/scm.png" group-title="movie",Star Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/scmlegend.png" group-title="movie",Star Chinese Movies Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="movie", KIX
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117549
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="movie", KIX 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117550
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="movie", KIX 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117551
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="movie",ZEE BIOSKOP HD
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/zee-bioskop.png" group-title="movie", ZEEBIOSKOP
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117552
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/zee-bioskop.png" group-title="movie", ZEEBIOSKOP 2
@@ -939,7 +819,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117554
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movie", thrill
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117555
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movie", thrill 2
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176751
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117556
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="movie", thrill 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117557
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/my-cinema.png" group-title="movie", MY CINEMA
@@ -947,7 +827,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117558
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/my-cinema.png" group-title="movie", MYCE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117559
 #EXTINF: -1 group-title="movie", CINEMA WORLD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176755https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176755https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176755
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117560
 #EXTINF: -1 group-title="movie", CINEMA WORLD 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117561
 #EXTINF: -1 group-title="movie", CINEMA WORLD 3
@@ -960,56 +840,34 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117564
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117565
 #EXTINF: -1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="movie", Cinemax FHD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117566
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/0yJjMdB/hbo-max-home-tv.png" group-title="movie", Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="movie", Cinemax 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117567
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="movie", Cinemax 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117568
 #EXTINF: -1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="movie", HBO FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176764
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="movie", HBO 1
-https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117569
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movie", HBO 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117570
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movie", HBO 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117571
 #EXTINF: -1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="movie", HBO Hits FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176767
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="movie", HBO Hits 1
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117572
 #EXTINF: -1 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="movie", HBO Hits 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117573
 #EXTINF: -1 tvg-name="HBOHits.id" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="movie", HBO Hits 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117574
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="movie", HBO Signature FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176770
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="movie", HBO Signature 1
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117575
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="movie", HBO Signature 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117576
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="movie", HBO Signature 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117577
 #EXTINF: -1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="movie", HBO Family FHD
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176773
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="movie", HBO Family 1
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117578
 #EXTINF: -1 tvg-name="HBOFamily.id" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="movie", HBO Family 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117579
 #EXTINF: -1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="movie", HBO Family 3
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117580
-#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="movie", Red By HBO 1
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117581
 #EXTINF: -1 tvg-name="Red by HBO" group-title="movie", ETV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117582
 #EXTINF: -1 tvg-logo="https://tvkita.my.id/img/tvnmovies.png" group-title="movie", TVN
@@ -1066,6 +924,10 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117607
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117608
 #EXTINF: -1 tvg-logo="https://www.pinclipart.com/picdir/middle/115-1155244_film-reel-icon-movie-logo-png-clipart.png" group-title="movie", BLACK MOVIE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117609
+#EXTINF: -1 group-title="movie", MOVIE +
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117610
+#EXTINF: -1 group-title="movie", BOLLYWOOD+
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117611
 #EXTINF: -1 group-title="Knowledge", SMITHSONIAN
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117612
 #EXTINF: -1 group-title="Knowledge", CGTN
@@ -1077,7 +939,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117615
 #EXTINF: -1 group-title="Knowledge", SCIENCE
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117616
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge", NATGEO WILD 1
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176812
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117617
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge", NATGEO WILD 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117618
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/nat-geo-wild.png" group-title="Knowledge", NATGEO WILD 3
@@ -1087,7 +949,7 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117620
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge", NATIONAL GEOGRAPHIC 2
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117621
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/national-geographic.png" group-title="Knowledge", NATIONAL GEOGRAPHIC 3
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176817
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117622
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png" group-title="Knowledge", discovery
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117623
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png" group-title="Knowledge", discovery Asia
@@ -1120,78 +982,6 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117636
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117637
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="Knowledge", NASA TV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117638
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="ANI.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="KNOWLEDGE V+",ANIMAL PLANET
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="DIS.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="KNOWLEDGE V+",DISCOVERY
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="KNOWLEDGE V+",HISTORY
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="KNOWLEDGE V+",NATIONAL GEOGRAPHIC
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428320_ico.png" group-title="KNOWLEDGE V+",NATIONAL GEOGRAPHIC BACK
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428321_ico.png" group-title="KNOWLEDGE V+",NATGEO PEOPLE
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428321_ico.png" group-title="KNOWLEDGE V+",NATGEO PEOPLE BACK
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="KNOWLEDGE V+",NAT GEOWILD
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428319_ico.png" group-title="KNOWLEDGE V+",NAT GEOWILD BACK
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428164_ico.png" group-title="KNOWLEDGE V+",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="KNOWLEDGE V+",CRIME+INVESTIGATION
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/travel.png" group-title="KNOWLEDGE V+",TRAVEL CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AFN.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="KNOWLEDGE V+",AFN
-https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="KNOWLEDGE V+",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="KNOWLEDGE V+",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="BBL.UK" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bbc earth.png" group-title="KNOWLEDGE V+",BBC EARTH
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="KNOWLEDGE V+",ONE TV
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/waku2japan.png" group-title="KNOWLEDGE V+",WAKU2 JAPAN
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 #EXTINF: -1 group-title="MALAYSIA", AWESOME TV
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117639
 #EXTINF: -1 group-title="MALAYSIA", AWESOME TV BACK
@@ -1200,14 +990,12 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117640
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117641
 #EXTINF: -1 tvg-name="MY178:ABO Tayangan Hebat" group-title="MALAYSIA", MY178:ABO Tayangan Hebat
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117642
-#EXTINF: -1 group-title="MALAYSIA", DUNIA SINEMA
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117643
 #EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117644
 #EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117645
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499176841
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117646
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI BACK
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117647
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-ikim.png" group-title="MALAYSIA", IKIM
@@ -2318,44 +2106,26 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118199
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118200
 #EXTINF: -1 tvg-name="TH089:Super Bunteung" group-title="Thailand", TH089:Super Bunteung
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118201
-#EXTINF: -1 tvg-name="JP001:NKH-BS1" group-title="Japan", JP001:NKH-BS1
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224250
-#EXTINF: -1 tvg-name="JP002:Nippon TV" group-title="Japan", JP002:Nippon TV
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224251
-#EXTINF: -1 tvg-name="JP003:NHKWorld" group-title="Japan", JP003:NHKWorld
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224252
-#EXTINF: -1 tvg-name="JP004:NHKHuaYuShiJie" group-title="Japan", JP004:NHKHuaYuShiJie
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224253
-#EXTINF: -1 tvg-name="JP005:NHK-Osaka" group-title="Japan", JP005:NHK-Osaka
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224254
-#EXTINF: -1 tvg-name="JP006:NHKGeneral" group-title="Japan", JP006:NHKGeneral
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224255
-#EXTINF: -1 tvg-name="JP007:TV Osaka" group-title="Japan", JP007:TV Osaka
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224256
-#EXTINF: -1 tvg-name="JP008:Tokyo MX2" group-title="Japan", JP008:Tokyo MX2
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224257
-#EXTINF: -1 tvg-name="JP009:Jet TV" group-title="Japan", JP009:Jet TV
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224258
 #EXTINF: -1 tvg-name="JP010:Fuji TV" group-title="Japan", JP010:Fuji TV
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224259
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118202
 #EXTINF: -1 tvg-name="JP011:CNAJapan" group-title="Japan", JP011:CNAJapan
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224260
-#EXTINF: -1 tvg-name="JP012:MBS" group-title="Japan", JP012:MBS
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224261
-#EXTINF: -1 tvg-name="JP013:NHKPLUS" group-title="Japan", JP013:NHKPLUS
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224262
-#EXTINF: -1 tvg-name="JP014:ATX" group-title="Japan", JP014:ATX
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224263
-#EXTINF: -1 tvg-name="JP015:Family Gekijo" group-title="Japan", JP015:Family Gekijo
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224264
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118203
+#EXTINF: -1 tvg-name="JP012:BSFuji" group-title="Japan", JP012:BSFuji
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118204
+#EXTINF: -1 tvg-name="JP013:BS-181" group-title="Japan", JP013:BS-181
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118205
+#EXTINF: -1 tvg-name="JP014:BSフジ.181" group-title="Japan", JP014:BSフジ.181
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118206
+#EXTINF: -1 tvg-name="JP015:BSジャパン" group-title="Japan", JP015:BSジャパン
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118207
 #EXTINF: -1 tvg-name="JP016:TBS" group-title="Japan", JP016:TBS
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224265
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118208
 #EXTINF: -1 tvg-name="JP017:TOKYOMX" group-title="Japan", JP017:TOKYOMX
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224266
-#EXTINF: -1 tvg-name="JP018:TV Tokyo" group-title="Japan", JP018:TV Tokyo
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224267
-#EXTINF: -1 tvg-name="JP019:Shop Channel" group-title="Japan", JP019:Shop Channel
-https://m3u-editor.com/serve/b9155670-8e08-11ec-acff-c98392c4783b/499224268
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118209
+#EXTINF: -1 tvg-name="JP018:テレビ朝日" group-title="Japan", JP018:テレビ朝日
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118210
+#EXTINF: -1 tvg-name="JP019:テレビ東京" group-title="Japan", JP019:テレビ東京
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118211
 #EXTINF: -1 tvg-name="AU001:ABC Perth" group-title="Australia", AU001:ABC Perth
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497118212
 #EXTINF: -1 tvg-name="AU002:9 Rush Brisbane" group-title="Australia", AU002:9 Rush Brisbane
@@ -4942,6 +4712,137 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497119502
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497119503
 #EXTINF: -1 tvg-name="IN Star Sports 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="Best of Sports", IN Star Sports 1 FHD
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497119504
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
