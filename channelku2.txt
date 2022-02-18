@@ -697,6 +697,365 @@ https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117471
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117472
 #EXTINF: -1 tvg-id="bein.movies.4.family.ae" tvg-name="BN017:BeIN Movies 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN017BeINMovies4.png" group-title="BEIN MEDIA", BN017:BeIN Movies 4
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117473
+#EXTINF: -1 tvg-id="multisports1.fr" tvg-name="|FR-SD| MULTI SPORTS 1" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/MULTISPORTS1.png" group-title="SPORTS", |FR-SD| MULTI SPORTS 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954625
+#EXTINF: -1 tvg-id="multisports2.fr" tvg-name="|FR-SD| MULTI SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/MULTISPORTS2.png" group-title="SPORTS", |FR-SD| MULTI SPORTS 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954626
+#EXTINF: -1 tvg-id="multisports3.fr" tvg-name="|FR-SD| MULTI SPORTS 3" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/MULTISPORTS3.png" group-title="SPORTS", |FR-SD| MULTI SPORTS 3
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954627
+#EXTINF: -1 tvg-id="multisports4.fr" tvg-name="|FR-SD| MULTI SPORTS 4" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/MULTISPORTS4.png" group-title="SPORTS", |FR-SD| MULTI SPORTS 4
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954628
+#EXTINF: -1 tvg-id="multisports5.fr" tvg-name="|FR-SD| MULTISPORTS 5" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/MULTISPORTS5.png" group-title="SPORTS", |FR-SD| MULTISPORTS 5
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954629
+#EXTINF: -1 tvg-id="multisports6.fr" tvg-name="|FR-SD| MULTISPORTS 6" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/MULTISPORTS6.png" group-title="SPORTS", |FR-SD| MULTISPORTS 6
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954630
+#EXTINF: -1 tvg-id="eurosport1.fr" tvg-name="|FR-SD| EUROSPORT 1" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/EUROSPORT1HD.png" group-title="SPORTS", |FR-SD| EUROSPORT 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954631
+#EXTINF: -1 tvg-id="eurosport2.fr" tvg-name="|FR-SD| EUROSPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/EUROSPORT1HD.png" group-title="SPORTS", |FR-SD| EUROSPORT 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954632
+#EXTINF: -1 tvg-id="rmcsport1.fr" tvg-name="|FR-SD| RMC SPORT 1" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORT1HD.png" group-title="SPORTS", |FR-SD| RMC SPORT 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954633
+#EXTINF: -1 tvg-id="rmcsport3.fr" tvg-name="|FR-SD| RMC SPORT LIVE 3" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE3HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 3
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954634
+#EXTINF: -1 tvg-id="rmcsport4.fr" tvg-name="|FR-SD| RMC SPORT LIVE 4" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE4HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 4
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954635
+#EXTINF: -1 tvg-id="rmcsport2.fr" tvg-name="|FR-SD| RMC SPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORT2HD.png" group-title="SPORTS", |FR-SD| RMC SPORT 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954636
+#EXTINF: -1 tvg-id="rmcsportlive5.fr" tvg-name="|FR-SD| RMC SPORT LIVE 5" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE5HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 5
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954637
+#EXTINF: -1 tvg-id="rmcsportlive6.fr" tvg-name="|FR-SD| RMC SPORT LIVE 6" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE6HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 6
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954638
+#EXTINF: -1 tvg-id="rmcsportlive7.fr" tvg-name="|FR-SD| RMC SPORT LIVE 7" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE7HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 7
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954639
+#EXTINF: -1 tvg-id="rmcsportlive8.fr" tvg-name="|FR-SD| RMC SPORT LIVE 8" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE8HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 8
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954640
+#EXTINF: -1 tvg-id="rmcsportlive9.fr" tvg-name="|FR-SD| RMC SPORT LIVE 9" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE9HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 9
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954641
+#EXTINF: -1 tvg-id="rmcsportlive10.fr" tvg-name="|FR-SD| RMC SPORT LIVE 10" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE10HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 10
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954642
+#EXTINF: -1 tvg-id="rmcsportlive11.fr" tvg-name="|FR-SD| RMC SPORT LIVE 11" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE11HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 11
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954643
+#EXTINF: -1 tvg-id="rmcsportlive12.fr" tvg-name="|FR-SD| RMC SPORT LIVE 12" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE12HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 12
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954644
+#EXTINF: -1 tvg-id="rmcsportlive13.fr" tvg-name="|FR-SD| RMC SPORT LIVE 13" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE13HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 13
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954645
+#EXTINF: -1 tvg-id="rmcsportlive14.fr" tvg-name="|FR-SD| RMC SPORT LIVE 14" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE14HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 14
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954646
+#EXTINF: -1 tvg-id="rmcsportlive15.fr" tvg-name="|FR-SD| RMC SPORT LIVE 15" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/RMCSPORTLIVE15HD.png" group-title="SPORTS", |FR-SD| RMC SPORT LIVE 15
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954647
+#EXTINF: -1 tvg-id="footplus24.fr" tvg-name="|FR-SD| FOOT+ 24" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/FOOT24HD.png" group-title="SPORTS", |FR-SD| FOOT+ 24
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954648
+#EXTINF: -1 tvg-id="skysport1.de" tvg-name="|DE| SKY SPORT 1 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORT1.png" group-title="SPORTS", |DE| SKY SPORT 1 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954649
+#EXTINF: -1 tvg-id="skysport2.de" tvg-name="|DE| SKY SPORT 2" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORT2.png" group-title="SPORTS", |DE| SKY SPORT 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954650
+#EXTINF: -1 tvg-id="skysport2.de" tvg-name="|DE| SKY SPORT 2 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORT2.png" group-title="SPORTS", |DE| SKY SPORT 2 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954651
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 3 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 3 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954652
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 4 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 4 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954653
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 5 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 5 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954654
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 6 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 6 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954655
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 7 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 7 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954656
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 8 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 8 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954657
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 9 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 9 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954658
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 10 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 10 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954659
+#EXTINF: -1 tvg-name="|DE| SKY SPORT 11 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYSPORTT.png" group-title="SPORTS", |DE| SKY SPORT 11 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954660
+#EXTINF: -1 tvg-name="|DE| DAZN 1 BAR HD" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 1 BAR HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954661
+#EXTINF: -1 tvg-name="|DE| DAZN 2 BAR HD" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 2 BAR HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954662
+#EXTINF: -1 tvg-name="|DE| DAZN NBA HD" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN NBA HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954663
+#EXTINF: -1 tvg-name="|DE| DAZN MBL HD" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN MBL HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954664
+#EXTINF: -1 tvg-name="|DE| DAZN LFC TV HD" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN LFC TV HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954665
+#EXTINF: -1 tvg-id="skybundesliga1.de" tvg-name="|DE| SKY BUNDESLIGA 1 HD" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 1 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954666
+#EXTINF: -1 tvg-id="skybundesliga2.de" tvg-name="|DE| SKY BUNDESLIGA 2 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 2 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954667
+#EXTINF: -1 tvg-id="skybundesliga3.de" tvg-name="|DE| SKY BUNDESLIGA 3 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 3 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954668
+#EXTINF: -1 tvg-id="skybundesliga4.de" tvg-name="|DE| SKY BUNDESLIGA 4 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 4 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954669
+#EXTINF: -1 tvg-id="skybundesliga5.de" tvg-name="|DE| SKY BUNDESLIGA 5 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 5 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954670
+#EXTINF: -1 tvg-id="skybundesliga6.de" tvg-name="|DE| SKY BUNDESLIGA 6 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 6 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954671
+#EXTINF: -1 tvg-id="skybundesliga7.de" tvg-name="|DE| SKY BUNDESLIGA 7 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 7 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954672
+#EXTINF: -1 tvg-id="skybundesliga8.de" tvg-name="|DE| SKY BUNDESLIGA 8 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 8 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954673
+#EXTINF: -1 tvg-id="skybundesliga9.de" tvg-name="|DE| SKY BUNDESLIGA 9 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 9 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954674
+#EXTINF: -1 tvg-id="skybundesliga10.de" tvg-name="|DE| SKY BUNDESLIGA 10 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.crystalott.net:8080//logos/GERMANY/DESPORT/SKYBUNDESLIGA.png" group-title="SPORTS", |DE| SKY BUNDESLIGA 10 HD |ONLY DURING LIVE MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954675
+#EXTINF: -1 tvg-name="|DE| PRIME 1 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 1 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954676
+#EXTINF: -1 tvg-name="|DE| PRIME 2 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 2 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954677
+#EXTINF: -1 tvg-name="|DE| PRIME 3 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 3 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954678
+#EXTINF: -1 tvg-name="|DE| PRIME 4 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 4 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954679
+#EXTINF: -1 tvg-name="|DE| PRIME 5 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 5 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954680
+#EXTINF: -1 tvg-name="|DE| PRIME 6 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 6 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954681
+#EXTINF: -1 tvg-name="|DE| PRIME 7 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 7 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954682
+#EXTINF: -1 tvg-name="|DE| PRIME 8 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/SPORTS/AMAZON.png" group-title="SPORTS", |DE| PRIME 8 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954683
+#EXTINF: -1 tvg-name="|DE| DAZN 1 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 1 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954684
+#EXTINF: -1 tvg-name="|DE| DAZN 2 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 2 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954685
+#EXTINF: -1 tvg-name="|DE| DAZN 3 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 3 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954686
+#EXTINF: -1 tvg-name="|DE| DAZN 4 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 4 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954687
+#EXTINF: -1 tvg-name="|DE| DAZN 5 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 5 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954688
+#EXTINF: -1 tvg-name="|DE| DAZN 6 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 6 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954689
+#EXTINF: -1 tvg-name="|DE| DAZN 7 HD |LIVE-EVENT|" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 7 HD |LIVE-EVENT|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954690
+#EXTINF: -1 tvg-name="|DE| DAZN 8 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 8 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954691
+#EXTINF: -1 tvg-name="|DE| DAZN 9 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 9 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954692
+#EXTINF: -1 tvg-name="|DE| DAZN 10 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 10 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954693
+#EXTINF: -1 tvg-name="|DE| DAZN 11 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 11 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954694
+#EXTINF: -1 tvg-name="|DE| DAZN 12 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 12 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954695
+#EXTINF: -1 tvg-name="|DE| DAZN 13 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 13 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954696
+#EXTINF: -1 tvg-name="|DE| DAZN 14 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 14 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954697
+#EXTINF: -1 tvg-name="|DE| DAZN 15 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 15 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954698
+#EXTINF: -1 tvg-name="|DE| DAZN 16 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 16 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954699
+#EXTINF: -1 tvg-name="|DE| DAZN 17 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 17 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954700
+#EXTINF: -1 tvg-name="|DE| DAZN 18 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 18 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954701
+#EXTINF: -1 tvg-name="|DE| DAZN 19 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 19 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954702
+#EXTINF: -1 tvg-name="|DE| DAZN 20 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 20 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954703
+#EXTINF: -1 tvg-name="|DE| DAZN 21 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 21 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954704
+#EXTINF: -1 tvg-name="|DE| DAZN 22 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 22 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954705
+#EXTINF: -1 tvg-name="|DE| DAZN 23 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 23 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954706
+#EXTINF: -1 tvg-name="|DE| DAZN 24 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 24 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954707
+#EXTINF: -1 tvg-name="|DE| DAZN 25 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 25 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954708
+#EXTINF: -1 tvg-name="|DE| DAZN 26 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 26 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954709
+#EXTINF: -1 tvg-name="|DE| DAZN 27 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 27 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954710
+#EXTINF: -1 tvg-name="|DE| DAZN 28 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 28 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954711
+#EXTINF: -1 tvg-name="|DE| DAZN 29 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 29 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954712
+#EXTINF: -1 tvg-name="|DE| DAZN 30 HD [LIVE-EVENT]" tvg-logo="http://logo.crystalott.net:8080/logos/GERMANY/DAZN.png" group-title="SPORTS", |DE| DAZN 30 HD [LIVE-EVENT]
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954713
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORT HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS.png" group-title="SPORTS", |UK-HD| BEIN SPORT HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954714
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS NBA HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="SPORTS", |UK-HD| BEIN SPORTS NBA HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954715
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORT NEWS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTSNEWS.png" group-title="SPORTS", |UK-HD| BEIN SPORT NEWS HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954716
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS PREMIUM 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINPREMIUM1.png" group-title="SPORTS", |UK-HD| BEIN SPORTS PREMIUM 1 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954717
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS PREMIUM 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINPREMIUM2.png" group-title="SPORTS", |UK-HD| BEIN SPORTS PREMIUM 2 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954718
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS PREMIUM 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINPREMIUM3.png" group-title="SPORTS", |UK-HD| BEIN SPORTS PREMIUM 3 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954719
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="|UK-HD| BEIN SPORTS 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS1.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 1 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954720
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="|UK-HD| BEIN SPORTS 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS2.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 2 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954721
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="|UK-HD| BEIN SPORTS 3 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS3.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 3 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954722
+#EXTINF: -1 tvg-id="btsportx4.uk" tvg-name="|UK-HD| BEIN SPORTS 4 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS4.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 4 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954723
+#EXTINF: -1 tvg-id="btsportx5.uk" tvg-name="|UK-HD| BEIN SPORTS 5 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS5.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 5 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954724
+#EXTINF: -1 tvg-id="btsportx6.uk" tvg-name="|UK-HD| BEIN SPORTS 6 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS6.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 6 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954725
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS 7 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS7.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 7 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954726
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS XTRA 1 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTSXTRA1.png" group-title="SPORTS", |UK-HD| BEIN SPORTS XTRA 1 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954727
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS XTRA 2 HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTSXTRA2.png" group-title="SPORTS", |UK-HD| BEIN SPORTS XTRA 2 HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954728
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS 1 ENGLISH HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS1ENGLISH.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 1 ENGLISH HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954729
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS 2 ENGLISH HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS2ENGLISH.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 2 ENGLISH HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954730
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS 3 ENGLISH HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS3ENGLISH.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 3 ENGLISH HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954731
+#EXTINF: -1 tvg-name="|UK-HD| BEIN SPORTS 1 FRENCH HD" tvg-logo="http://logo.crystalott.net:8080/logos/BEINSPORTS/BEINSPORTS1FRENCH.png" group-title="SPORTS", |UK-HD| BEIN SPORTS 1 FRENCH HD
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954732
+#EXTINF: -1 tvg-name="## |UK-HD| SPORTS  ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/UNITEDKINGDOM.png" group-title="SPORTS", ## |UK-HD| SPORTS  ##
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954733
+#EXTINF: -1 tvg-id="skysportsnews.uk" tvg-name="|UK-HD| SKY SPORTS NEWS" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSNEWS.png" group-title="SPORTS", |UK-HD| SKY SPORTS NEWS
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954734
+#EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="|UK-HD| SKY SPORTS ACTION" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSACTION.png" group-title="SPORTS", |UK-HD| SKY SPORTS ACTION
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954735
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="|UK-HD| SKY SPORTS FOOTBALL" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSFOOTBALL.png" group-title="SPORTS", |UK-HD| SKY SPORTS FOOTBALL
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954736
+#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="|UK-HD| SKY SPORTS MAIN EVENT" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSMAINEVENT.png" group-title="SPORTS", |UK-HD| SKY SPORTS MAIN EVENT
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954737
+#EXTINF: -1 tvg-id="skysportsarena.uk" tvg-name="|UK-HD| SKY SPORTS ARENA" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSARENA.png" group-title="SPORTS", |UK-HD| SKY SPORTS ARENA
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954738
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="|UK-HD| SKY SPORTS CRICKET" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSCRICKET.png" group-title="SPORTS", |UK-HD| SKY SPORTS CRICKET
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954739
+#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="|UK-HD| SKY SPORTS F1" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSF1.png" group-title="SPORTS", |UK-HD| SKY SPORTS F1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954740
+#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="|UK-HD| SKY SPORTS GOLF" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSGOLF.png" group-title="SPORTS", |UK-HD| SKY SPORTS GOLF
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954741
+#EXTINF: -1 tvg-id="btsportespn.uk" tvg-name="|UK-HD| BT SPORTS ESPN" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTSESPN.png" group-title="SPORTS", |UK-HD| BT SPORTS ESPN
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954742
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="|UK-HD| BT SPORTS 1" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="SPORTS", |UK-HD| BT SPORTS 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954743
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="|UK-HD| BT SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="SPORTS", |UK-HD| BT SPORTS 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954744
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="|UK-HD| BT SPORTS 3" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="SPORTS", |UK-HD| BT SPORTS 3
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954745
+#EXTINF: -1 tvg-name="|UK-HD| CHELSEA TV |LIVE ON MATCHES|" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/CHELSEATV.png" group-title="SPORTS", |UK-HD| CHELSEA TV |LIVE ON MATCHES|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954746
+#EXTINF: -1 tvg-name="|UK-HD| RANGERS FC TV" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/RANGERS.png" group-title="SPORTS", |UK-HD| RANGERS FC TV
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954747
+#EXTINF: -1 tvg-id="boxnation.uk" tvg-name="|UK-HD| BOX NATION" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BOXNATION.png" group-title="SPORTS", |UK-HD| BOX NATION
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954748
+#EXTINF: -1 tvg-name="|UK-HD| PDC DARTS" group-title="SPORTS", |UK-HD| PDC DARTS
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954749
+#EXTINF: -1 tvg-name="|UK-HD| PDC DARTS 2" group-title="SPORTS", |UK-HD| PDC DARTS 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954750
+#EXTINF: -1 tvg-name="|UK-HD| PPV 3 |ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="SPORTS", |UK-HD| PPV 3 |ONLY MATCH TIME|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954751
+#EXTINF: -1 tvg-name="|UK-HD| PPV 4 |ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="SPORTS", |UK-HD| PPV 4 |ONLY MATCH TIME|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954752
+#EXTINF: -1 tvg-name="|UK-HD| PPV 5 ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="SPORTS", |UK-HD| PPV 5 ONLY MATCH TIME|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954753
+#EXTINF: -1 tvg-name="|UK-HD| PPV 6 |ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="SPORTS", |UK-HD| PPV 6 |ONLY MATCH TIME|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954754
+#EXTINF: -1 tvg-name="|UK-HD| PPV 7 |ONLY MATCH TIME|" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PPV.png" group-title="SPORTS", |UK-HD| PPV 7 |ONLY MATCH TIME|
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954755
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 01:" group-title="SPORTS", |UK-HD| SPFL 01:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954756
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 02:" group-title="SPORTS", |UK-HD| SPFL 02:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954757
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 03:" group-title="SPORTS", |UK-HD| SPFL 03:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954758
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 04:" group-title="SPORTS", |UK-HD| SPFL 04:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954759
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 05:" group-title="SPORTS", |UK-HD| SPFL 05:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954760
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 06:" group-title="SPORTS", |UK-HD| SPFL 06:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954761
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 07:" group-title="SPORTS", |UK-HD| SPFL 07:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954762
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 08:" group-title="SPORTS", |UK-HD| SPFL 08:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954763
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 09:" group-title="SPORTS", |UK-HD| SPFL 09:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954764
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 10:" group-title="SPORTS", |UK-HD| SPFL 10:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954765
+#EXTINF: -1 tvg-name="|UK-HD| SPFL 11:" group-title="SPORTS", |UK-HD| SPFL 11:
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954766
+#EXTINF: -1 tvg-id="skysportsnews.uk" tvg-name="|UK-SD| SKY SPORTS NEWS" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSNEWS.png" group-title="SPORTS", |UK-SD| SKY SPORTS NEWS
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954767
+#EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="|UK-SD| SKY SPORTS ACTION" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSACTION.png" group-title="SPORTS", |UK-SD| SKY SPORTS ACTION
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954768
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="|UK-SD| SKY SPORTS FOOTBALL" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSFOOTBALL.png" group-title="SPORTS", |UK-SD| SKY SPORTS FOOTBALL
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954769
+#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="|UK-SD| SKY SPORTS MAIN EVENT" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSMAINEVENT.png" group-title="SPORTS", |UK-SD| SKY SPORTS MAIN EVENT
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954770
+#EXTINF: -1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK-SD| SKY SPORTS PREMIER LEAGUE" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSPREMIERLEAGUE.png" group-title="SPORTS", |UK-SD| SKY SPORTS PREMIER LEAGUE
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954771
+#EXTINF: -1 tvg-id="skysportsracing.uk" tvg-name="|UK-SD| SKY SPORTS RACING" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSRACING.png" group-title="SPORTS", |UK-SD| SKY SPORTS RACING
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954772
+#EXTINF: -1 tvg-id="skysportsarena.uk" tvg-name="|UK-SD| SKY SPORTS ARENA" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSARENA.png" group-title="SPORTS", |UK-SD| SKY SPORTS ARENA
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954773
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="|UK-SD| SKY SPORTS CRICKET" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSCRICKET.png" group-title="SPORTS", |UK-SD| SKY SPORTS CRICKET
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954774
+#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="|UK-SD| SKY SPORTS F1" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSF1.png" group-title="SPORTS", |UK-SD| SKY SPORTS F1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954775
+#EXTINF: -1 tvg-id="skysportsmix.uk" tvg-name="|UK-SD| SKY SPORT MIX" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTMIX.png" group-title="SPORTS", |UK-SD| SKY SPORT MIX
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954776
+#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="|UK-SD| SKY SPORTS GOLF" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSGOLF.png" group-title="SPORTS", |UK-SD| SKY SPORTS GOLF
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954777
+#EXTINF: -1 tvg-id="btsportespn.uk" tvg-name="|UK-SD| BT SPORTS ESPN" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTSESPN.png" group-title="SPORTS", |UK-SD| BT SPORTS ESPN
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954778
+#EXTINF: -1 tvg-name="|UK-SD| BT SPORTS 1" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="SPORTS", |UK-SD| BT SPORTS 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954779
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="|UK-SD| BT SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="SPORTS", |UK-SD| BT SPORTS 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954780
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="|UK-SD| BT SPORTS 3" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="SPORTS", |UK-SD| BT SPORTS 3
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954781
+#EXTINF: -1 tvg-name="|UK-SD| BT SPORTS MOSAIC" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTSMOSAIC.png" group-title="SPORTS", |UK-SD| BT SPORTS MOSAIC
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954782
+#EXTINF: -1 tvg-id="eurosport1.uk" tvg-name="|UK-SD| EUROSPORTS 1" tvg-logo="http://logo.crystalott.net:8080/logos/ITALY/EUROSPORT1.png" group-title="SPORTS", |UK-SD| EUROSPORTS 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954783
+#EXTINF: -1 tvg-id="eurosport2.uk" tvg-name="|UK-SD| EUROSPORT 2" tvg-logo="http://logo.crystalott.net:8080/logos/ITALY/EUROSPORT2.png" group-title="SPORTS", |UK-SD| EUROSPORT 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954784
+#EXTINF: -1 tvg-id="boxnation.uk" tvg-name="|UK-SD| BOX NATION" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BOXNATION.png" group-title="SPORTS", |UK-SD| BOX NATION
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954785
+#EXTINF: -1 tvg-id="freesports.uk" tvg-name="|UK-SD| FREE SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/FREESPORTS.png" group-title="SPORTS", |UK-SD| FREE SPORTS
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954786
+#EXTINF: -1 tvg-id="mutv.uk" tvg-name="|UK-SD| MUTV" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/MUTV.png" group-title="SPORTS", |UK-SD| MUTV
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954787
+#EXTINF: -1 tvg-id="premiersports.uk" tvg-name="|UK-SD| PREMIER SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PREMIERSPORTS1.png" group-title="SPORTS", |UK-SD| PREMIER SPORTS
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954788
+#EXTINF: -1 tvg-id="premiersports2.uk" tvg-name="|UK-SD| PREMIER SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/PREMIERSPORTS2.png" group-title="SPORTS", |UK-SD| PREMIER SPORTS 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954789
+#EXTINF: -1 tvg-id="racinguk.uk" tvg-name="|UK-SD| RACING UK" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/RACINGUK.png" group-title="SPORTS", |UK-SD| RACING UK
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954790
+#EXTINF: -1 tvg-id="skysportsnews.uk" tvg-name="|UK-HD| SKY SPORTS NEWS" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSNEWS.png" group-title="SPORTS", |UK-HD| SKY SPORTS NEWS
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954791
+#EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="|UK-HD| SKY SPORTS ACTION" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSACTION.png" group-title="SPORTS", |UK-HD| SKY SPORTS ACTION
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954792
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="|UK-HD| SKY SPORTS FOOTBALL" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSFOOTBALL.png" group-title="SPORTS", |UK-HD| SKY SPORTS FOOTBALL
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954793
+#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="|UK-HD| SKY SPORTS MAIN EVENT" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSMAINEVENT.png" group-title="SPORTS", |UK-HD| SKY SPORTS MAIN EVENT
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954794
+#EXTINF: -1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK-HD| SKY SPORTS PREMIER LEAGUE" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSPREMIERLEAGUE.png" group-title="SPORTS", |UK-HD| SKY SPORTS PREMIER LEAGUE
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954795
+#EXTINF: -1 tvg-id="skysportsarena.uk" tvg-name="|UK-HD| SKY SPORTS ARENA" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSARENA.png" group-title="SPORTS", |UK-HD| SKY SPORTS ARENA
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954796
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="|UK-HD| SKY SPORTS CRICKET" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSCRICKET.png" group-title="SPORTS", |UK-HD| SKY SPORTS CRICKET
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954797
+#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="|UK-HD| SKY SPORTS F1" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSF1.png" group-title="SPORTS", |UK-HD| SKY SPORTS F1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954798
+#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="|UK-HD| SKY SPORTS GOLF" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/SKYSPORTSGOLF.png" group-title="SPORTS", |UK-HD| SKY SPORTS GOLF
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954799
+#EXTINF: -1 tvg-id="btsportespn.uk" tvg-name="|UK-HD| BT SPORTS ESPN" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTSESPN.png" group-title="SPORTS", |UK-HD| BT SPORTS ESPN
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954800
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="|UK-HD| BT SPORTS 1" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS1.png" group-title="SPORTS", |UK-HD| BT SPORTS 1
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954801
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="|UK-HD| BT SPORTS 2" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS2.png" group-title="SPORTS", |UK-HD| BT SPORTS 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954802
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="|UK-HD| BT SPORTS 3" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/SPORTS/BTSPORTS3.png" group-title="SPORTS", |UK-HD| BT SPORTS 3
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/501954803
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS CHANNEL", SPACETOON ID [Nin]
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117474
 #EXTINF: -1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network HD" tvg-logo="https://i.postimg.cc/MpWMd45K/images-12.png" group-title="KIDS CHANNEL", Cartoon Network
