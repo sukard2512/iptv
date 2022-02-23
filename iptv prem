@@ -53,6 +53,8 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524092
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524093
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDO", SCTV
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524094
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR LIVE 2
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/506796640
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDO", SCTV 2
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524095
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDO", SCTV 3
@@ -624,6 +626,14 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524361
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524362
 #EXTINF: -1 group-title="Sport Indo", PPV Fut1 ENG
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524363
+#EXTINF: -1 group-title="Sport Indo", ARENA SPORT1
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/506816109
+#EXTINF: -1 group-title="Sport Indo", ARENA SPORT2
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/506816110
+#EXTINF: -1 group-title="Sport Indo", ARENA SPORT3
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/506816111
+#EXTINF: -1 group-title="Sport Indo", ARENA SPORT4
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/506816112
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN MEDIA", BEIN1 ASIA
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524366
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2999,6 +3009,38 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525486
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525487
 #EXTINF: -1 tvg-name="UK-4Music" tvg-logo="http://stariptv.org:80/logo/uk.png" group-title="ENGLISH", UK-4Music
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525488
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="[CN] CCTV-1 综合 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CHINA",[CN] CCTV-1 综合 HD
+http://iptv12k.com:35461/8022011502/123456/1333
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="[CN] CCTV-2 财经" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CHINA",[CN] CCTV-2 财经
+http://iptv12k.com:35461/8022011502/123456/1332
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="[CN] CCTV-3 综艺 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CHINA",[CN] CCTV-3 综艺 HD
+http://iptv12k.com:35461/8022011502/123456/1331
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="[CN] CCTV-4 中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CHINA",[CN] CCTV-4 中文国际
+http://iptv12k.com:35461/8022011502/123456/1330
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="[CN] CCTV-5 体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CHINA",[CN] CCTV-5 体育频道
+http://iptv12k.com:35461/8022011502/123456/1329
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="[CN] CCTV-5+ 体育赛事 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CHINA",[CN] CCTV-5+ 体育赛事 HD
+http://iptv12k.com:35461/8022011502/123456/1328
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="[CN] CCTV-6电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CHINA",[CN] CCTV-6电影
+http://iptv12k.com:35461/8022011502/123456/1327
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="[CN] CCTV-7 军事农业" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CHINA",[CN] CCTV-7 军事农业
+http://iptv12k.com:35461/8022011502/123456/1326
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="[CN] CCTV-8 电视剧 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CHINA",[CN] CCTV-8 电视剧 HD
+http://iptv12k.com:35461/8022011502/123456/1325
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="[CN] CCTV-9 记录 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CHINA",[CN] CCTV-9 记录 HD
+http://iptv12k.com:35461/8022011502/123456/1324
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="[CN] CCTV-10 科教 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CHINA",[CN] CCTV-10 科教 HD
+http://iptv12k.com:35461/8022011502/123456/1323
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="[CN] CCTV-11 戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CHINA",[CN] CCTV-11 戏曲
+http://iptv12k.com:35461/8022011502/123456/1322
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="[CN] CCTV-12 社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CHINA",[CN] CCTV-12 社会与法
+http://iptv12k.com:35461/8022011502/123456/1321
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="[CN] CCTV-13 新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CHINA",[CN] CCTV-13 新闻频道
+http://iptv12k.com:35461/8022011502/123456/1320
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="[CN] CCTV-14 少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CHINA",[CN] CCTV-14 少儿
+http://iptv12k.com:35461/8022011502/123456/1319
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="[CN] CCTV-15 音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CHINA",[CN] CCTV-15 音乐
+http://iptv12k.com:35461/8022011502/123456/131
 #EXTINF: -1 tvg-name="|TH| CHPARLIAMENT TV" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="ASIA| THAILAND", |TH| CHPARLIAMENT TV
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525688
 #EXTINF: -1 tvg-name="|TH| FOX HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="ASIA| THAILAND", |TH| FOX HD
