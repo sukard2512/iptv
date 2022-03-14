@@ -460,13 +460,13 @@ https://m3u-editor.com/serve/edcfa660-a2e5-11ec-a9c7-c9da78fd53fa/522903963
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5ygQX4/MNC-sport.png" group-title="Sport Indo INDO",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="Sport Indo",MNC SPORTS
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rubbyguntara.github.io/src/img/mncsports.png" group-title="Sport Indo",Mnc Sport 2
-https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpdSport Indo
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="Sport Indo",MNC SPORTS 2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF: -1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132645true-premier-football-hd-1-7xb25gctand1.png" group-title="Sport Indo", True Premier 1
 https://m3u-editor.com/serve/edcfa660-a2e5-11ec-a9c7-c9da78fd53fa/522903965
 #EXTINF: -1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312131955true-premier-football-hd-2-0oi36lekmq9m.png" group-title="Sport Indo", True Premier 2
