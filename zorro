@@ -474,7 +474,8 @@ https://m3u-editor.com/serve/edcfa660-a2e5-11ec-a9c7-c9da78fd53fa/522903966
 #EXTINF: -1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-premier-football-hd-3.png" group-title="Sport Indo", True Premier 3
 https://m3u-editor.com/serve/edcfa660-a2e5-11ec-a9c7-c9da78fd53fa/522903967
 #EXTINF: -1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132722true-premier-football-hd-5.png" group-title="Sport Indo", True Premier 4
-https://m3u-editor.com/serve/edcfa660-a2e5-11ec-a9c7-c9da78fd53fa/522903968
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF: -1 group-title="Sport Indo", True Premier 5
 https://m3u-editor.com/serve/edcfa660-a2e5-11ec-a9c7-c9da78fd53fa/522903969
 #EXTINF: -1 group-title="Sport Indo", SUKAN RTM
