@@ -63,8 +63,7 @@ https://m3u-editor.com/serve/1d8f4840-ad85-11ec-975d-a1f7710b97e8/532940796
 https://m3u-editor.com/serve/1d8f4840-ad85-11ec-975d-a1f7710b97e8/532940797
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR LIVE 2
 https://m3u-editor.com/serve/1d8f4840-ad85-11ec-975d-a1f7710b97e8/532940798
-#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR LIVE 3
-https://m3u-editor.com/serve/1d8f4840-ad85-11ec-975d-a1f7710b97e8/535418038
+
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR
 https://m3u-editor.com/serve/1d8f4840-ad85-11ec-975d-a1f7710b97e8/532940799
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR 2
@@ -386,6 +385,30 @@ https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/532974170
 https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/532981098
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", ANISA RAHMAN - BUHASABAH CINTA
 https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/532981099
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", WALI BAND - LAMAR AKU
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535969661
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", OPICK - TAUBAT
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535969662
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", ZIVILIA - PINTU TAUBAT
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535969663
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", OPICK FEAT AMANDA - ALHAMDULILLAH
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970804
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", OPICK FAET MELLY GOESLAW - TAKDIR
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970805
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", UNGU - SESUNGUHNYA
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970806
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", WALI BAND - KUY HIJRAH
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970808
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", USTADZ JEFRI ALBUHOCKRI - SHALAWAT CINTA
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970809
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", RHOMA IRAMA - DOSA YANG MENGHANTUI
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970810
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", RHOMA IRAMA - DERITA PENGANGGURAN
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970811
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", RHOMA IRAMA - SEBUJUR BANGKAI
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970812
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ytn6y7jwe6ypzrl/youtube.jpg?dl=1" group-title="KLIP MUSIC RELIGI", RHOMA IRAMA - AHKLAK
+https://m3u-editor.com/serve/1cc2c130-adb0-11ec-bfb9-b3096403e23b/535970813
 
 #EXTINF: -1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/transformasi-logo-tvri-_190405212444-949.jpg" group-title="TVRI", TVRI ACEH
 https://m3u-editor.com/serve/1d8f4840-ad85-11ec-975d-a1f7710b97e8/532940918
