@@ -936,53 +936,7 @@ https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574611
 https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574612
 #EXTINF: -1 group-title="KIDS CHANNEL", HIP HIP HOREE
 https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574613
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/visionprime.png" group-title="intertaiment",Vision Prime HD
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-#EXTINF: -1 tvg-name="ID Vision Prime" group-title="intertaiment", ID Vision Prime
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574614
-#EXTINF: -1 group-title="intertaiment", ID Vision Prime Back
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574615
-#EXTINF: -1 group-title="intertaiment", USEE PRIME
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574616
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" group-title="intertaiment",OKTV HD
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-#EXTINF: -1 tvg-name="ID Vision Prime" group-title="intertaiment", OKTV
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574617
-#EXTINF: -1 group-title="intertaiment", Citra Entertainment
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574618
-#EXTINF: -1 tvg-name="ID Waku Waku Japan" group-title="intertaiment", Waku Waku Japan
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574619
-#EXTINF: -1 tvg-name="ID Waku Waku Japan" group-title="intertaiment", Waku Waku Japan BACK
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574620
-#EXTINF: -1 group-title="intertaiment", RTP
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574621
-#EXTINF: -1 group-title="intertaiment", AFN
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574622
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/insert.png" group-title="intertaiment", INSERT
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574623
-#EXTINF: -1 group-title="intertaiment", showbiz
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574624
-#EXTINF: -1 group-title="intertaiment", leaning & knowledge
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574625
-#EXTINF: -1 group-title="intertaiment", liFe & style
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574626
-#EXTINF: -1 group-title="intertaiment", BBC Lifestyle
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574627
-#EXTINF: -1 group-title="intertaiment", Food Network HD
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574628
-#EXTINF: -1 group-title="intertaiment", eGG Network
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574629
-#EXTINF: -1 group-title="intertaiment", DW HD
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574630
-#EXTINF: -1 group-title="intertaiment", Comedy Central
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574631
-#EXTINF: -1 group-title="Knowledge", SMITHSONIAN
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574632
-#EXTINF: -1 group-title="Knowledge", CGTN
-https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574633
+
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge", LOVE4NATURE1
 https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574634
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/love-nature.png" group-title="Knowledge", LOVE4NATURE2
