@@ -795,6 +795,56 @@ https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574532
 https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574533
 #EXTINF: -1 group-title="Sport Indo", SPORT KLUB 5
 https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574534
+#EXTINF: -1 tvg-id="rmc.sport.1.fr" tvg-name="FR349:RMC Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="Sport Indo", FR349:RMC Sport 1 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539933
+#EXTINF: -1 tvg-id="rmc.sport.2.fr" tvg-name="FR350:RMC Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="Sport Indo", FR350:RMC Sport 2 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539934
+#EXTINF: -1 tvg-id="rmc.sport.3.fr" tvg-name="FR351:RMC Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="Sport Indo", FR351:RMC Sport 3 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539935
+#EXTINF: -1 tvg-id="rmc.sport.4.fr" tvg-name="FR352:RMC Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="Sport Indo", FR352:RMC Sport 4 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539936
+#EXTINF: -1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR121:RMC Sport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png" group-title="Sport Indo", FR121:RMC Sport 5
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539937
+#EXTINF: -1 tvg-id="rmc.decouverte.fr" tvg-name="FR348:RMC Sport 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR348RMCSport6.png" group-title="Sport Indo", FR348:RMC Sport 6
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539938
+#EXTINF: -1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR129:RMC Sport 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png" group-title="Sport Indo", FR129:RMC Sport 7
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539939
+#EXTINF: -1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR130:RMC Sport 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="Sport Indo", FR130:RMC Sport 8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539940
+#EXTINF: -1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR254:RMC Sport 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR254RMCSport9.png" group-title="Sport Indo", FR254:RMC Sport 9
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539941
+#EXTINF: -1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR256:RMC Sport 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR256RMCSport10.png" group-title="Sport Indo", FR256:RMC Sport 10
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539942
+#EXTINF: -1 tvg-id="rmc.sport.live.11.fr" tvg-name="FR257:RMC Sport 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR257RMCSport11.png" group-title="Sport Indo", FR257:RMC Sport 11
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539943
+#EXTINF: -1 tvg-id="rmc.sport.live.12.fr" tvg-name="FR266:RMC Sport 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR266RMCSport12.png" group-title="Sport Indo", FR266:RMC Sport 12
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539944
+#EXTINF: -1 tvg-id="rmc.sport.live.13.fr" tvg-name="FR267:RMC Sport 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR267RMCSport13.png" group-title="Sport Indo", FR267:RMC Sport 13
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539945
+#EXTINF: -1 tvg-id="rmc.sport.live.14.fr" tvg-name="FR268:RMC Sport 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR268RMCSport14.png" group-title="Sport Indo", FR268:RMC Sport 14
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539946
+#EXTINF: -1 tvg-id="rmc.sport.live.15.fr" tvg-name="FR280:RMC Sport 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR280RMCSPORT15.png" group-title="Sport Indo", FR280:RMC Sport 15
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539947
+#EXTINF: -1 tvg-id="rmc.sport.live.16.fr" tvg-name="FR296:RMC Sport 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR296RMCSPORT16.png" group-title="Sport Indo", FR296:RMC Sport 16
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539948
+#EXTINF: -1 tvg-id="dazn1.it" tvg-name="IT147:DAZN 1 HD" group-title="Sport Indo", IT147:DAZN 1 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539949
+#EXTINF: -1 tvg-name="IT148:DAZN 2 HD" group-title="Sport Indo", IT148:DAZN 2 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539950
+#EXTINF: -1 tvg-name="IT149:DAZN 3 HD" group-title="Sport Indo", IT149:DAZN 3 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539951
+#EXTINF: -1 tvg-name="IT150:DAZN 4 HD" group-title="Sport Indo", IT150:DAZN 4 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539952
+#EXTINF: -1 tvg-name="IT151:DAZN 5 HD" group-title="Sport Indo", IT151:DAZN 5 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539953
+#EXTINF: -1 tvg-name="IT152:DAZN 6 HD" group-title="Sport Indo", IT152:DAZN 6 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539954
+#EXTINF: -1 tvg-name="IT153:DAZN 7 HD" group-title="Sport Indo", IT153:DAZN 7 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539955
+#EXTINF: -1 tvg-name="IT154:DAZN 8 HD" group-title="Sport Indo", IT154:DAZN 8 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539956
+#EXTINF: -1 tvg-name="IT155:DAZN 9 HD" group-title="Sport Indo", IT155:DAZN 9 HD
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/541539957
 #EXTINF: -1 tvg-name="TSN 1" group-title="LIVE | SPORTS", TSN 1
 https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574535
 #EXTINF: -1 tvg-name="TSN 2" group-title="LIVE | SPORTS", TSN 2
