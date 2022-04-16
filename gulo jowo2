@@ -618,6 +618,11 @@ https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542601915
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542601916
 #EXTINF: -1 group-title="MOTOGP", LIVE 4
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542601917
+
+#EXTINF: -1 group-title="Sport Indo", ZQ SPORT
+https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/546303802
+#EXTINF: -1 group-title="Sport Indo", ZQ FOOTBALL CHANNEL
+https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/546303803
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Sport Indo", Usee Sports 1
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542601918
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Sport Indo", Usee Sports 1 BACK
@@ -850,62 +855,7 @@ https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602025
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602026
 #EXTINF: -1 tvg-name="IT155:DAZN 9 HD" group-title="Sport Indo", IT155:DAZN 9 HD
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602027
-#EXTINF: -1 tvg-name="TSN 1" group-title="LIVE | SPORTS", TSN 1
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602028
-#EXTINF: -1 tvg-name="TSN 2" group-title="LIVE | SPORTS", TSN 2
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602029
-#EXTINF: -1 tvg-name="TSN 4" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="LIVE | SPORTS", TSN 4
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602030
-#EXTINF: -1 tvg-name="TSN 3" tvg-logo="http://tvmalaysia.cc:80/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="LIVE | SPORTS", TSN 3
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602031
-#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="LIVE | SPORTS", BT Sport 1
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602032
-#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="LIVE | SPORTS", BT Sport 2
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602033
-#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="LIVE | SPORTS", BT Sport 3
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602034
-#EXTINF: -1 tvg-name="BT Sport ESPN" tvg-logo="http://tvmalaysia.cc:80/images/38d170f4abf9bf163ba3ac527b37ae72.jpg" group-title="LIVE | SPORTS", BT Sport ESPN
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602035
-#EXTINF: -1 tvg-name="UK: Premier Sports 1" tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png" group-title="LIVE | SPORTS", UK: Premier Sports 1
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602036
-#EXTINF: -1 tvg-name="UK: Premier Sports 2" tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png" group-title="LIVE | SPORTS", UK: Premier Sports 2
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602037
-#EXTINF: -1 tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="LIVE | SPORTS", UK: Sky Sports News
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602038
-#EXTINF: -1 tvg-name="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Arena
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602039
-#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="LIVE | SPORTS", UK: Sky Sports F1
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602040
-#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="LIVE | SPORTS", UK: Sky Sports Golf
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602041
-#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Football
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602042
-#EXTINF: -1 tvg-name="UK: Sky Sports Premier League" tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Premier League
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602043
-#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="LIVE | SPORTS", UK: Sky Sports Cricket
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602044
-#EXTINF: -1 tvg-name="UK: Sky Sports Racing" tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Racing
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602045
-#EXTINF: -1 tvg-name="UK: Sky Sports Main Event" tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Main Event
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602046
-#EXTINF: -1 tvg-name="UK: Sky Sports Mix" tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Mix
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602047
-#EXTINF: -1 tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="LIVE | SPORTS", MUTV
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602048
-#EXTINF: -1 tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/12d36e8d63d3c1800885615edc4b961b.png" group-title="LIVE | SPORTS", LFC TV
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602049
-#EXTINF: -1 tvg-name="UFC" group-title="LIVE | SPORTS", UFC
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602050
-#EXTINF: -1 tvg-name="UFC PPV Early Prelims" group-title="LIVE | SPORTS", UFC PPV Early Prelims
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602051
-#EXTINF: -1 tvg-name="UFC PPV Prelims" group-title="LIVE | SPORTS", UFC PPV Prelims
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602052
-#EXTINF: -1 tvg-name="UFC PPV Main Card" group-title="LIVE | SPORTS", UFC PPV Main Card
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602053
-#EXTINF: -1 tvg-name="PPV Boxing" group-title="LIVE | SPORTS", PPV Boxing
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602054
-#EXTINF: -1 tvg-name="LowBW UFC PPV Main Card" group-title="LIVE | SPORTS", LowBW UFC PPV Main Card
-https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602055
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="BEIN MEDIA", BEIN1 ASIA HD
@@ -914,7 +864,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602056
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="group-title="BEIN MEDIA", BEIN2 ASIA HD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="BEIN MEDIA", BEIN2 ASIA HD
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN MEDIA", BEIN2 ASIA
 https://m3u-editor.com/serve/35a60020-b879-11ec-92f0-07e8dd188009/542602057
