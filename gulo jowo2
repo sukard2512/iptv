@@ -1754,7 +1754,344 @@ https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549424263
 https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549424264
 #EXTINF: -1 tvg-name="M. LA LIGA TV BAR" tvg-logo="http://bullplayer.us/logoscanales/events/LALIGATVBAR.jpg" group-title="BEST OF SPORT", M. LA LIGA TV BAR
 https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549424265
-
+#EXTINF: -1 group-title="SPORT UK", At The Races
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449258
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT SPORT 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449259
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT SPORT 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449260
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport 3 FHD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449261
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Europe HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449262
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Extra 1 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449263
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Extra 2 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449264
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Extra 3 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449265
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Extra 4 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449266
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Extra 5
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449267
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport Extra 6
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449268
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Eir Sport 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449269
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Eir Sport 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449270
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Ginx eSports TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449271
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Racing TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449272
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Sports F1 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449273
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS ARENA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449274
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS FOOTBALL
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449275
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS NFL
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449276
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS RACING
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449277
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: UFC Fight Pass
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449278
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: WWE PPV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449279
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: PREMIER SPORTS 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449280
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS PREMIER LEAGUE
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449281
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: MUTV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449282
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: MUTV Backup
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449283
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Boxnation
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449284
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport 1 backup
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449285
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport 1 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449286
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport 2 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449287
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport 3 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449288
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport 3 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449289
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sport ESPN
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449290
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: BT Sports 2 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449291
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Chelsea FC
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449292
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: CHELSEA TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449293
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Eir Sports2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449294
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Eurosport 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449295
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: EUROSPORT 1 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449296
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: EUROSPORT 2 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449297
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: LFC TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449298
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: LFC TV HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449299
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Mototrs TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449300
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Racing UK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449301
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Sport 1 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449302
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Sport Arena HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449303
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Sport F1 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449304
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Sport Football HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449305
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Sport News
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449306
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS ACTION HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449307
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS CRICKET HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449308
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS GOLF HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449309
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS MAIN EVENT
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449310
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS MAIN EVENT HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449311
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: SKY SPORTS PREMIER LEAGUE HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449312
+#EXTINF: -1 group-title="SPORT UK", SPORT UK: Sky Two
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449313
+#EXTINF: -1 group-title="SPORT UK", PREMIER SPORT1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449314
+#EXTINF: -1 group-title="SPORT UK", PREMIER SPORT 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449315
+#EXTINF: -1 tvg-name="beIN Sports News" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="beIN Sports", beIN Sports News
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449316
+#EXTINF: -1 tvg-name="beIN Sports Premium 1 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="beIN Sports", beIN Sports Premium 1 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449317
+#EXTINF: -1 tvg-name="beIN Sports Premium 2 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="beIN Sports", beIN Sports Premium 2 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449318
+#EXTINF: -1 tvg-name="beIN Sports Premium 3 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="beIN Sports", beIN Sports Premium 3 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449319
+#EXTINF: -1 tvg-name="beIN Sports 1 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 1 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449320
+#EXTINF: -1 tvg-name="beIN Sports 2 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 2 HD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449321
+#EXTINF: -1 tvg-name="beIN Sports 3 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 3 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449322
+#EXTINF: -1 tvg-name="beIN Sports 4 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 4 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449323
+#EXTINF: -1 tvg-name="beIN Sports 5 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 5 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449324
+#EXTINF: -1 tvg-name="beIN Sports 6 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 6 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449325
+#EXTINF: -1 tvg-name="beIN Sports 7 SD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN Sports", beIN Sports 7 SD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449326
+#EXTINF: -1 tvg-name="beIN Sports English 1" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png" group-title="beIN Sports", beIN Sports English 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449327
+#EXTINF: -1 tvg-name="beIN Sports English 2" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f214%2fbein-sports-english-1.png" group-title="beIN Sports", beIN Sports English 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449328
+#EXTINF: -1 tvg-name="beIN Sports English 3" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f215%2fbein-sports-english-1.png" group-title="beIN Sports", beIN Sports English 3
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449329
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/FreeSports.png" group-title="SPORTS NETWORK", FREESPORTS
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449330
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Premier%20HD.png" group-title="SPORTS NETWORK", PREMIER SPORTS 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449331
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Premier%20HD.png" group-title="SPORTS NETWORK", PREMIER SPORTS 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449332
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BT%20Sport%201%20HD.png" group-title="SPORTS NETWORK", BT SPORTS 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449333
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BT%20Sport%202%20HD.png" group-title="SPORTS NETWORK", BT SPORTS 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449334
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BT%20Sport%203.png" group-title="SPORTS NETWORK", BT SPORTS 3
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449335
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BT%20Sport%20ESPN.png" group-title="SPORTS NETWORK", BT SPORTS EPSN
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449336
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Eurosport%201.png" group-title="SPORTS NETWORK", EUROSPORT 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449337
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Eurosport%202.png" group-title="SPORTS NETWORK", EUROSPORT 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449338
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORK", ESPN
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449339
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/ESPN%202.png" group-title="SPORTS NETWORK", ESPN2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449340
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="SPORTS NETWORK", FOX SPORTS 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449341
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="SPORTS NETWORK", FOX SPORTS 1 Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449342
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="SPORTS NETWORK", FOX SPORTS 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449343
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="SPORTS NETWORK", FOX SPORTS 2 Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449344
+#EXTINF: -1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2016/06/nfl-network-logo.jpg" group-title="SPORTS NETWORK", NFL NETWORK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449345
+#EXTINF: -1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2016/06/nfl-network-logo.jpg" group-title="SPORTS NETWORK", NFL NETWORK Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449346
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/NBATVHD.png" group-title="SPORTS NETWORK", NBA TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449347
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/NBATVHD.png" group-title="SPORTS NETWORK", NBA TV Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449348
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/MLB.png" group-title="SPORTS NETWORK", MLB NETWORK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449349
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/NHL%20Network.png" group-title="SPORTS NETWORK", NHL NETWORK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449350
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/f6/c2/8c/f6c28cd1c0b0be354257843aa1351596.jpg" group-title="SPORTS NETWORK", FIGHT CHANNEL
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449351
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Fight%20Network.png" group-title="SPORTS NETWORK", FIGHT NETWORK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449352
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/UFC%20Network.png" group-title="SPORTS NETWORK", UFC TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449353
+#EXTINF: -1 tvg-logo="https://www.pwmania.com/wp-content/uploads/2020/05/Impact-Wrestling.jpg" group-title="SPORTS NETWORK", IMPACT WRESTLING
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449354
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/NBCSN.png" group-title="SPORTS NETWORK", NBCSN
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449355
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/NBCSN.png" group-title="SPORTS NETWORK", NBCSN Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449356
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/CSN%20BAY%20AREA.png" group-title="SPORTS NETWORK", NBCSN BAY AREA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449357
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/CSNNE.png" group-title="SPORTS NETWORK", NBCSN BOSTON
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449358
+#EXTINF: -1 tvg-logo="https://cms.nhl.bamgrid.com/images/photos/288216018/1024x576/cut.jpg" group-title="SPORTS NETWORK", NBCSN CALIFORNIA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449359
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/CSNCH.png" group-title="SPORTS NETWORK", NBCSN CHICAGO
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449360
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/CSN%20CHICAGO.png" group-title="SPORTS NETWORK", NBCSN CHICAGO PLUS
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449361
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="SPORTS NETWORK", NBCSN WASHINGTON
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449362
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/CBS%20Sports%20Network.png" group-title="SPORTS NETWORK", CBS SPORTS NETWORK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449363
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/CBS%20Sports%20Network.png" group-title="SPORTS NETWORK", CBS SPORTS NETWORK Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449364
+#EXTINF: -1 tvg-logo="https://y4j7y8s9.ssl.hwcdn.net/wp-content/uploads/2017/07/eleven-sports.png" group-title="SPORTS NETWORK", ELEVEN SPORTS
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449365
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="SPORTS NETWORK", TSN 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449366
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/TSN%202.png" group-title="SPORTS NETWORK", TSN 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449367
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/TSN%203.png" group-title="SPORTS NETWORK", TSN 3
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449368
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/TSN%204.png" group-title="SPORTS NETWORK", TSN 4
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449369
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="SPORTS NETWORK", TSN 5
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449370
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORK", STADIUM
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449371
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORK", STADIUM 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449372
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORK", STADIUM 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449373
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORK", STADIUM 3
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449374
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/Ou266-JxPIc/maxresdefault.jpg" group-title="SPORTS NETWORK", WORLD FISHING NETWORK
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449375
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/MotorTrendLogo.png" group-title="SPORTS NETWORK", MOTORTREND
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449376
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/MotorTrendLogo.png" group-title="SPORTS NETWORK", MOTORTREND Low
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449377
+#EXTINF: -1 tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORTS NETWORK", RED BULL TV
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449378
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20360.png" group-title="SPORTS NETWORK", SPORTSNET 360
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449379
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20One.png" group-title="SPORTS NETWORK", SPORTSNET ONE
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449380
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20Ontario.png" group-title="SPORTS NETWORK", SPORTSNET ONTARIO
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449381
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/Rogers_sportsnet_pacific.png/revision/latest?cb=20120212023023" group-title="SPORTS NETWORK", SPORTSNET PACIFIC
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449382
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sportsnet%20West.png" group-title="SPORTS NETWORK", SPORTSNET WEST
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449383
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sportsnet%20World.png" group-title="SPORTS NETWORK", SPORTSNET WORLD
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449384
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Action
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449385
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", Supersport Blitz
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449386
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Cricket
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449387
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Football
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449388
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Golf
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449389
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Grandstand
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449390
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport LaLiga
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449391
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport MáXimo
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449392
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Motorsport
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449393
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Premier League
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449394
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport PSL
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449395
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Rugby
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449396
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Tennis
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449397
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Variety 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449398
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Variety 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449399
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Variety 3
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449400
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SuperSport.new.jpg" group-title="SUPER SPORT", SuperSport Variety 4
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449401
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky.Sports.NFL.PNG" group-title="SKY SPORTS", SKY SPORTS NFL
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449402
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Arena.png" group-title="SKY SPORTS", SKY SPORTS ARENA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449403
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20cricket%20hd.png" group-title="SKY SPORTS", SKY SPORTS CRICKET
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449404
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20F1.png" group-title="SKY SPORTS", SKY SPORTS F1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449405
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SS_FOOTBALL.png" group-title="SKY SPORTS", SKY SPORTS FOOTBALL
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449406
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/SS_GOLF.png" group-title="SKY SPORTS", SKY SPORTS GOLF
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449407
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Main%20Event.png" group-title="SKY SPORTS", SKY SPORTS MAIN EVENT
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449408
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Mix.png" group-title="SKY SPORTS", SKY SPORTS MIX
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449409
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Spts%20News%20HD.png" group-title="SKY SPORTS", SKY SPORTS NEWS
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449410
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Premier%20League.png" group-title="SKY SPORTS", SKY SPORTS PREMIER LEAGUE
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449411
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/RACING%20UK.png" group-title="SKY SPORTS", SKY SPORTS RACING
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449412
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BEIN%20SPORT%20USA.png" group-title="BEINs SPORTS", BEIN SPORTS USA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449413
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="BEINs SPORTS", BEIN SPORTS ESP (US)
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449414
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="BEINs SPORTS", BEIN SPORTS LA LIGA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449415
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="BEINs SPORTS", BEIN SPORTS XTRA
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449416
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%201HD.png" group-title="BEINs SPORTS", BEIN SPORTS 1
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449417
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%202HD.png" group-title="BEINs SPORTS", BEIN SPORTS 2
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449418
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%203HD.png" group-title="BEINs SPORTS", BEIN SPORTS 3
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449419
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%204HD.png" group-title="BEINs SPORTS", BEIN SPORTS 4
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449420
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%205HD.png" group-title="BEINs SPORTS", BEIN SPORTS 5
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449421
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%206HD.png" group-title="BEINs SPORTS", BEIN SPORTS 6
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449422
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%207HD.png" group-title="BEINs SPORTS", BEIN SPORTS 7
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449423
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%208HD.png" group-title="BEINs SPORTS", BEIN SPORTS 8
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449424
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%209HD.png" group-title="BEINs SPORTS", BEIN SPORTS 9
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449425
+#EXTINF: -1 tvg-logo="http://primestreamstv.com/logos/bein%2010HD.png" group-title="BEINs SPORTS", BEIN SPORTS 10
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/549449426
 
 
 
