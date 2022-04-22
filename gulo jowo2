@@ -656,7 +656,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/New_mnc_sports_logo_2020.png" group-title="Sport Indo",MNC SPORTS 2
 https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF: -1 group-title="Sport Indo", SUKAN RTM
-https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/547060514
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF: -1 group-title="Sport Indo", TVRI SPORT
 https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/547060515
 #EXTINF: -1 group-title="Sport Indo", OMANTV
