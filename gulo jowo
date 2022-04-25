@@ -178,6 +178,10 @@ https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725245
 #EXTINF: -1 tvg-logo="TEST" group-title="INDO", The Indonesia Channel
 https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725246
 
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="DIGITAL", TRANS7
+https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/552352921
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="DIGITAL", TRANSTV
+https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/552352922
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="DIGITAL", ANTV DIGITAL T2
 https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/552322462
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="DIGITAL", BADAR TV T2
