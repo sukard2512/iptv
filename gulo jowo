@@ -1258,7 +1258,7 @@ https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555816358
 #EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/galaxy.png" group-title="movie", GALAXY
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555816359
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxj_tdHMPVqbVreYZyaKAIACLliL4EOP9Ow&usqp=CAU" group-title="Movie",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxj_tdHMPVqbVreYZyaKAIACLliL4EOP9Ow&usqp=CAU" group-title="movie",Galaxy Premium
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF: -1 group-title="movie", MOVIE NOW
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555816361
