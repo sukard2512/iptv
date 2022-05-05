@@ -44,6 +44,10 @@ https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815439
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815440
 #EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDO", GTV3
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815441
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="INDO",iNews Prem
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDO", INEWS
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815442
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDO", INEWS2
@@ -70,7 +74,8 @@ https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815452
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815453
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Antv_logo_(2017).svg/revision/latest/scale-to-width-down/200?cb=20180407053038" group-title="INDO",ANTV PREM
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="INDO",ANTV PREM
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV
 https://m3u-editor.com/serve/6e264990-c916-11ec-bf4a-77a122ccb365/555815454
 #EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV 2
