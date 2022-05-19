@@ -3947,6 +3947,31 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/besmart.jpg" group-title="Indonesia chanel",Besmart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF: -1 tvg-name="ADI TV" tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="TV DAERAH", ADI TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030648
+#EXTINF: -1 tvg-name="BMS TV" tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="TV DAERAH", BMS TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030649
+#EXTINF: -1 tvg-name="Cahaya Banten TV" tvg-logo="https://i.postimg.cc/Prvhq4zj/C-BANTEN-TV.png" group-title="TV DAERAH", Cahaya Banten TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030650
+#EXTINF: -1 tvg-name="DESA TV" tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png" group-title="TV DAERAH", DESA TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030651
+#EXTINF: -1 tvg-name="JAMBI TV" tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="TV DAERAH", JAMBI TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030652
+#EXTINF: -1 tvg-name="Lombok TV" tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="TV DAERAH", Lombok TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030653
+#EXTINF: -1 tvg-name="PAL TV" tvg-logo="https://i.postimg.cc/fRXw8KJK/PAL-TV.png" group-title="TV DAERAH", PAL TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030654
+#EXTINF: -1 tvg-name="PON TV" tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="TV DAERAH", PON TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030655
+#EXTINF: -1 tvg-name="RB TV" tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="TV DAERAH", RB TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030656
+#EXTINF: -1 tvg-name="SAKTI TV" tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="TV DAERAH", SAKTI TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030657
+#EXTINF: -1 tvg-name="TATV" group-title="TV DAERAH", TATV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030658
+#EXTINF: -1 tvg-name="TEGAR TV" group-title="TV DAERAH", TEGAR TV
+https://m3u-editor.com/serve/f4099e80-d745-11ec-ad13-15eb3d69c32f/567030659
 #EXTINF: -1 tvg-name="MY: ADITHYA" group-title="Malaysia Channel", ADITHYA
 https://m3u-editor.com/serve/48f3da70-d4af-11ec-971b-d32c621a350d/565150082
 #EXTINF: -1 tvg-name="MY: AFN HD" group-title="Malaysia Channel", AFN HD
