@@ -2376,32 +2376,279 @@ https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367357
 https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367358
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Emblem_of_Sudan.svg/107px-Emblem_of_Sudan.svg.png" group-title="Best off Sports ", CANAL+  SPORT HEVC
 https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367351
+
 #EXTINF: -1 tvg-name="ADI TV" tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="TV DAERAH", ADI TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367360
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001975
 #EXTINF: -1 tvg-name="BMS TV" tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="TV DAERAH", BMS TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367361
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001976
 #EXTINF: -1 tvg-name="Cahaya Banten TV" tvg-logo="https://i.postimg.cc/Prvhq4zj/C-BANTEN-TV.png" group-title="TV DAERAH", Cahaya Banten TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367362
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001977
 #EXTINF: -1 tvg-name="DESA TV" tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png" group-title="TV DAERAH", DESA TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367363
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001978
 #EXTINF: -1 tvg-name="JAMBI TV" tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="TV DAERAH", JAMBI TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367364
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001979
 #EXTINF: -1 tvg-name="Lombok TV" tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="TV DAERAH", Lombok TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367365
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001980
 #EXTINF: -1 tvg-name="PAL TV" tvg-logo="https://i.postimg.cc/fRXw8KJK/PAL-TV.png" group-title="TV DAERAH", PAL TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367366
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001981
 #EXTINF: -1 tvg-name="PON TV" tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="TV DAERAH", PON TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367367
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001982
 #EXTINF: -1 tvg-name="RB TV" tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="TV DAERAH", RB TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367368
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001983
 #EXTINF: -1 tvg-name="SAKTI TV" tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="TV DAERAH", SAKTI TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367369
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001984
 #EXTINF: -1 tvg-name="TATV" group-title="TV DAERAH", TATV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367370
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001985
 #EXTINF: -1 tvg-name="TEGAR TV" group-title="TV DAERAH", TEGAR TV
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367371
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001986
 #EXTINF: -1 tvg-name="SMTV Sumedang" tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="TV DAERAH", SMTV Sumedang
-https://m3u-editor.com/serve/2b299740-da62-11ec-82eb-dddc369cc095/569367372
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001987
+#EXTINF: -1 tvg-id="ADiTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="TV DAERAH", ADiTV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001988
+#EXTINF: -1 tvg-id="AFBTV.id" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="TV DAERAH", AFB TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001989
+#EXTINF: -1 tvg-id="AgropolitanTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="TV DAERAH", Agropolitan TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001990
+#EXTINF: -1 tvg-id="AhsanTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ahsan_tv_id.png" group-title="TV DAERAH", Ahsan TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001991
+#EXTINF: -1 tvg-id="ArekTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="TV DAERAH", Arek TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001992
+#EXTINF: -1 tvg-id="ATV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-id.png" group-title="TV DAERAH", ATV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001993
+#EXTINF: -1 group-title="TV DAERAH", ATVLI
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001994
+#EXTINF: -1 tvg-id="BaliTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png" group-title="TV DAERAH", Bali TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001995
+#EXTINF: -1 tvg-id="BalikapanTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="TV DAERAH", Balikapan TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001996
+#EXTINF: -1 tvg-id="BandungTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png" group-title="TV DAERAH", Bandung TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001997
+#EXTINF: -1 tvg-id="BanjarTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo-banjar_tv.jpg" group-title="TV DAERAH", Banjar TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001998
+#EXTINF: -1 tvg-id="BantenTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logobantentv.png" group-title="TV DAERAH", Banten TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570001999
+#EXTINF: -1 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="TV DAERAH", Batam TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002000
+#EXTINF: -1 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="TV DAERAH", Batu TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002001
+#EXTINF: -1 tvg-id="BayuTV.id" tvg-logo="https://i.imgur.com/hnLpkOe.png" group-title="TV DAERAH", Bayu TV Nganjuk
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002002
+#EXTINF: -1 tvg-id="BBSTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbs-tv-id.png" group-title="TV DAERAH", BBS TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002003
+#EXTINF: -1 tvg-id="BETV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/betv-id.png" group-title="TV DAERAH", BETV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002004
+#EXTINF: -1 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="TV DAERAH", BRTV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002005
+#EXTINF: -1 tvg-id="CahayaTVBanten.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cahaya_tv_id_banten.png" group-title="TV DAERAH", Cahaya TV Banten
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002006
+#EXTINF: -1 tvg-id="DaAiTVIndonesia.id" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="TV DAERAH", DAAI TV Indonesia
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002007
+#EXTINF: -1 tvg-id="DangdutTivi.id" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangdut-tivi-id.png" group-title="TV DAERAH", Dangdut Tivi
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002008
+#EXTINF: -1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="TV DAERAH", Dhamma TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002009
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-logo="https://i.imgur.com/ISuLAHc.png" group-title="TV DAERAH", DigiOne
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002010
+#EXTINF: -1 tvg-id="DMTVMalang.id" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dm-tv-malang-id.png" group-title="TV DAERAH", DMTV Malang
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002011
+#EXTINF: -1 tvg-id="FajarTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/FAJARTV_2014.png" group-title="TV DAERAH", FajarTv
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002012
+#EXTINF: -1 tvg-id="GarudaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/garuda-tv-id.png" group-title="TV DAERAH", Garuda TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002013
+#EXTINF: -1 tvg-id="GBITV.id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gbi-tv-id.png" group-title="TV DAERAH", GBI TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002014
+#EXTINF: -1 tvg-id="GPRTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gpr-tv-id.png" group-title="TV DAERAH", GPR TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002015
+#EXTINF: -1 group-title="TV DAERAH", Hi Indo!
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002016
+#EXTINF: -1 group-title="TV DAERAH", HIDUP TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002017
+#EXTINF: -1 tvg-id="HijrahTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hijrah-tv-id.png" group-title="TV DAERAH", Hijrah TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002018
+#EXTINF: -1 tvg-id="InspiraTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inspira_tv_id.png" group-title="TV DAERAH", Inspira TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002020
+#EXTINF: -1 tvg-id="IzzahTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ii/izzah-tv-id.png" group-title="TV DAERAH", Izzah TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002021
+#EXTINF: -1 tvg-id="JakTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png" group-title="TV DAERAH", Jak TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002022
+#EXTINF: -1 tvg-id="JambiTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jambi_tv_id.png" group-title="TV DAERAH", Jambi TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002023
+#EXTINF: -1 group-title="TV DAERAH", Jangkar TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002024
+#EXTINF: -1 tvg-id="JawaPosTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Jawa_Pos_TV_2021.png" group-title="TV DAERAH", Jawa Pos TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002025
+#EXTINF: -1 tvg-id="JayaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_tv_id.png" group-title="TV DAERAH", Jaya TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002026
+#EXTINF: -1 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/K0tH9sj.png" group-title="TV DAERAH", Jek TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002027
+#EXTINF: -1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="TV DAERAH", Jogja Istimewa TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002028
+#EXTINF: -1 tvg-id="JPMTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png" group-title="TV DAERAH", JPM TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002029
+#EXTINF: -1 tvg-id="JTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" group-title="TV DAERAH", JTV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002030
+#EXTINF: -1 tvg-id="KawanuaTV.id" tvg-logo="https://i.imgur.com/lX0wJ1e.png" group-title="TV DAERAH", Kawanua TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002031
+#EXTINF: -1 group-title="TV DAERAH", KSB
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002032
+#EXTINF: -1 group-title="TV DAERAH", Kugo 1
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002033
+#EXTINF: -1 tvg-id="LombokTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lombok-tv-id.png" group-title="TV DAERAH", Lombok TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002034
+#EXTINF: -1 tvg-id="MadaniTV.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/madani_tv_id.png" group-title="TV DAERAH", Madani TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002035
+#EXTINF: -1 tvg-id="MaduTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png" group-title="TV DAERAH", Madu TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002036
+#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="TV DAERAH", Magna Channel
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002037
+#EXTINF: -1 group-title="TV DAERAH", MAX2U
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002038
+#EXTINF: -1 tvg-id="MCC.id" tvg-logo="https://i.imgur.com/U9tDAAj.png" group-title="TV DAERAH", MCC
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002039
+#EXTINF: -1 tvg-id="MediaSunnahAceh.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/media-sunnah-aceh-id.png" group-title="TV DAERAH", Media Sunnah Aceh
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002040
+#EXTINF: -1 tvg-id="MGITV.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgi-tv-id.png" group-title="TV DAERAH", MGI TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002041
+#EXTINF: -1 tvg-id="MGSTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png" group-title="TV DAERAH", MGS TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002042
+#EXTINF: -1 tvg-id="NiagaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/nn/niaga_tv_id.png" group-title="TV DAERAH", Niaga TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002043
+#EXTINF: -1 tvg-id="NuChannel.id" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nu-channel-id.png" group-title="TV DAERAH", Nu Channel
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002044
+#EXTINF: -1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/512px-Logo_nusantaratv.png" group-title="TV DAERAH", Nusantara TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002045
+#EXTINF: -1 tvg-id="PersadaTV.id" tvg-logo="https://www.persada.tv/wp-content/uploads/2021/12/Logo_PERSADA-TV_Non-Background-Tulisan-Hitam-1024x245.png" group-title="TV DAERAH", Persada TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002046
+#EXTINF: -1 tvg-id="PijarTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pijar-tv-id.png" group-title="TV DAERAH", Pijar TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002047
+#EXTINF: -1 tvg-id="PonTV.id" tvg-logo="https://i.imgur.com/xomQPVY.png" group-title="TV DAERAH", Pon TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002048
+#EXTINF: -1 group-title="TV DAERAH", Prima TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002049
+#EXTINF: -1 tvg-id="PujaTVAceh.id" tvg-logo="https://www.pujatvaceh.com/wp-content/uploads/2020/09/272.png" group-title="TV DAERAH", Puja TV Aceh
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002050
+#EXTINF: -1 tvg-id="RadioKitaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/radio-kita-tv-id.png" group-title="TV DAERAH", RadioKita TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002051
+#EXTINF: -1 tvg-id="RasyaadTV.id" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="TV DAERAH", Rasyaad TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002052
+#EXTINF: -1 tvg-id="RCTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/radar-cirebon-tv-id.png" group-title="TV DAERAH", RCTV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002053
+#EXTINF: -1 tvg-id="RiauRayaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/riau-raya-tv-id.png" group-title="TV DAERAH", Riau TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002054
+#EXTINF: -1 tvg-id="RiauTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/riau-tv-id.png" group-title="TV DAERAH", Riau TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002055
+#EXTINF: -1 tvg-id="RodjaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rodja_tv.png" group-title="TV DAERAH", Rodja TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002056
+#EXTINF: -1 tvg-id="RRINet.id" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="TV DAERAH", RRI Net
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002057
+#EXTINF: -1 tvg-id="RuangTrampilUseeTV.id" tvg-logo="https://www.useetv.com/pimages/logo_ruangtrampil_big.png" group-title="TV DAERAH", Ruang Trampil
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002058
+#EXTINF: -1 tvg-id="SaktiTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="TV DAERAH", Sakti TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002059
+#EXTINF: -1 tvg-id="SalamTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/salam_tv_id.png" group-title="TV DAERAH", Salam TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002060
+#EXTINF: -1 tvg-id="SalingSapaTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saling-sapa-tv-id.png" group-title="TV DAERAH", Saling Sapa TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002061
+#EXTINF: -1 group-title="TV DAERAH", Sampit TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002062
+#EXTINF: -1 tvg-id="SemarangTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="TV DAERAH", Semarang TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002063
+#EXTINF: -1 tvg-id="SMTV.id" tvg-logo="https://i.imgur.com/4J2QuJR.png" group-title="TV DAERAH", SMTV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002064
+#EXTINF: -1 tvg-id="SriwijayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="TV DAERAH", Sriwijaya TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002065
+#EXTINF: -1 tvg-id="SultraTV.id" tvg-logo="https://www.fmradioslive.com/wp-content/uploads/2021/12/Sultra-TV.png" group-title="TV DAERAH", Sultra
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002066
+#EXTINF: -1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunnah-jalan-pasti-tv-id.png" group-title="TV DAERAH", Sunnah Jalan Pasti TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002067
+#EXTINF: -1 tvg-id="SurauTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/surau_tv_id.png" group-title="TV DAERAH", Surau
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002068
+#EXTINF: -1 tvg-id="TATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/2560px-TATV_logo.svg.png" group-title="TV DAERAH", TATV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002069
+#EXTINF: -1 tvg-id="TawafTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png" group-title="TV DAERAH", Tawaf TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002070
+#EXTINF: -1 tvg-id="TegarTVLampung.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tegar_tv_id.png" group-title="TV DAERAH", Tegar TV Lampung
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002071
+#EXTINF: -1 tvg-id="TV9Nusantara.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="TV DAERAH", TV9 Nusantara
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002072
+#EXTINF: -1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/TV_Edukasi_Baru.png/512px-TV_Edukasi_Baru.png" group-title="TV DAERAH", TV Edukasi
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002073
+#EXTINF: -1 tvg-id="TVTabalong.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_tabalong_id.png" group-title="TV DAERAH", TV Tabalong
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002074
+#EXTINF: -1 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/WusMRPy.png" group-title="TV DAERAH", TVKU
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002075
+#EXTINF: -1 tvg-id="TVMu.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="TV DAERAH", tvMu
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002076
+#EXTINF: -1 tvg-id="TVRParlemenKomisiII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="TV DAERAH", TVR Parlemen Komisi II
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002077
+#EXTINF: -1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Aceh
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002078
+#EXTINF: -1 tvg-id="TVRIBali.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-bali-id.png" group-title="TV DAERAH", TVRI Bali
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002079
+#EXTINF: -1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Bangka Belitung
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002080
+#EXTINF: -1 tvg-id="TVRIBengkulu.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-bengkulu-id.png" group-title="TV DAERAH", TVRI Bengkulu
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002081
+#EXTINF: -1 tvg-id="TVRIDKIJakarta.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jakarta-id.png" group-title="TV DAERAH", TVRI DKI Jakarta
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002082
+#EXTINF: -1 tvg-id="TVRIGorontalo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Gorontalo
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002083
+#EXTINF: -1 tvg-id="TVRIJambi.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jambi-id.png" group-title="TV DAERAH", TVRI Jambi
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002084
+#EXTINF: -1 tvg-id="TVRIJawaBarat.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-barat-id.png" group-title="TV DAERAH", TVRI Jawa Barat
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002085
+#EXTINF: -1 tvg-id="TVRIJawaTengah.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-tengah-id.png" group-title="TV DAERAH", TVRI Jawa Tengah
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002086
+#EXTINF: -1 tvg-id="TVRIJawaTimur.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-timur-id.png" group-title="TV DAERAH", TVRI Jawa Timur
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002087
+#EXTINF: -1 tvg-id="TVRIKalimantanBarat.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Kalimantan Barat
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002088
+#EXTINF: -1 tvg-id="TVRIKalimantanSelatan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Kalimantan Selatan
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002089
+#EXTINF: -1 tvg-id="TVRIKalimantanTengah.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-kalteng-id.png" group-title="TV DAERAH", TVRI Kalimantan Tengah
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002090
+#EXTINF: -1 tvg-id="TVRIKalimantanTimur.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-kaltim-id.png" group-title="TV DAERAH", TVRI Kalimantan Timur
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002091
+#EXTINF: -1 tvg-id="TVRILampung.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-lampung-id.png" group-title="TV DAERAH", TVRI Lampung
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002092
+#EXTINF: -1 tvg-id="TVRIMaluku.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Maluku
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002093
+#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Nasional
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002094
+#EXTINF: -1 tvg-id="TVRINusaTenggaraBarat.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Nusa Tenggara Barat
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002095
+#EXTINF: -1 tvg-id="TVRINusaTenggaraTimur.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-nusa-tenggara-timur-id.png" group-title="TV DAERAH", TVRI Nusa Tenggara Timur
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002096
+#EXTINF: -1 tvg-id="TVRIPapua.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-papua-id.png" group-title="TV DAERAH", TVRI Papua
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002097
+#EXTINF: -1 tvg-id="TVRIRiau.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-riau-id.png" group-title="TV DAERAH", TVRI Riau
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002098
+#EXTINF: -1 tvg-id="TVRISulawesiBarat.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Sulawesi Barat
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002099
+#EXTINF: -1 tvg-id="TVRISulawesiSelatan.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sulawesi-selatan-id.png" group-title="TV DAERAH", TVRI Sulawesi Selatan
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002100
+#EXTINF: -1 tvg-id="TVRISulawesiTengah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Sulawesi Tengah
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002101
+#EXTINF: -1 tvg-id="TVRISulawesiTenggara.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Sulawesi Tenggara
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002102
+#EXTINF: -1 tvg-id="TVRISulawesiUtara.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV DAERAH", TVRI Sulawesi Utara
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002103
+#EXTINF: -1 tvg-id="TVRISumateraBarat.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumbar-id.png" group-title="TV DAERAH", TVRI Sumatera Barat
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002104
+#EXTINF: -1 tvg-id="TVRISumateraSelatan.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumsel-id.png" group-title="TV DAERAH", TVRI Sumatera Selatan
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002105
+#EXTINF: -1 tvg-id="TVRISumateraUtara.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumatera-utara-id.png" group-title="TV DAERAH", TVRI Sumatera Utara
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002106
+#EXTINF: -1 tvg-id="TVRIWorld.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png" group-title="TV DAERAH", TVRI World
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002107
+#EXTINF: -1 tvg-id="TVRIYogyakarta.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-yogyakarta-id.png" group-title="TV DAERAH", TVRI Yogyakarta
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002108
+#EXTINF: -1 tvg-id="UChannel.id" tvg-logo="https://www.lyngsat.com/logo/tv/uu/u_channel_id.png" group-title="TV DAERAH", U Channel
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002109
+#EXTINF: -1 tvg-id="UGTV.id" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/02/logo-ug.png" group-title="TV DAERAH", UGTV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002110
+#EXTINF: -1 tvg-id="InsanTV.id" tvg-logo="TV DAERAH" group-title="Ungrouped", Insan TV
+https://m3u-editor.com/serve/fd08fc70-db12-11ec-b86d-1b996e6ce742/570002019
 
 #EXTINF: -1 group-title="VOD 2022", The Fallout
 https://m3u-editor.com/serve/54073e30-da62-11ec-af5b-5922cf81e9e1/569367374
