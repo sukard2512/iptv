@@ -1118,30 +1118,7 @@ https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176605
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176606
 #EXTINF: -1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="https://i.postimg.cc/j5KLF94S/logog.png" group-title="MALAYSIA", Bloomberg TV
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176607
-#EXTINF: -1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="SG", [SG] Channel 5
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176608
-#EXTINF: -1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="SG", [SG] Channel 5 BACK
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176609
-#EXTINF: -1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 8" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" group-title="SG", [SG] Channel 8
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176610
-#EXTINF: -1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 8" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" group-title="SG", [SG] Channel 8 BACK
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176611
-#EXTINF: -1 tvg-id="ch.u.my" tvg-name="[SG] Channel U" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" group-title="SG", [SG] Channel U
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176612
-#EXTINF: -1 tvg-id="ch.u.my" tvg-name="[SG] Channel U" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" group-title="SG", [SG] Channel U BACK
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176613
-#EXTINF: -1 tvg-id="515" tvg-name="[SG] CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="SG", [SG] CNA
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176614
-#EXTINF: -1 tvg-id="515" tvg-name="[SG] CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="SG", [SG] CNA BACK
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176615
-#EXTINF: -1 tvg-id="suria.my" tvg-name="[SG] Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="SG", [SG] Suria
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176616
-#EXTINF: -1 tvg-id="suria.my" tvg-name="[SG] Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="SG", [SG] Suria BACK
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176617
-#EXTINF: -1 tvg-id="cctv1.cn" tvg-name="[SG] Vasantham" tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" group-title="SG", [SG] Vasantham
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176618
-#EXTINF: -1 tvg-id="cctv1.cn" tvg-name="[SG] Vasantham" tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" group-title="SG", [SG] Vasantham BACK
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176619
+
 #EXTINF: -1 group-title="IPTV", JakTV
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176623
 #EXTINF: -1 group-title="IPTV", Nusantara TV
