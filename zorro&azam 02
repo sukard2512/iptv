@@ -1,5 +1,21 @@
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="INDO", CHANNEL INFO
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606615939
+
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE 1
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549916
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE2
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549917
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE3
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549918
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE4
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549919
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE5
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549920
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE6
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549921
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE7
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549922
+
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 1
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606615940
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV DENS
