@@ -486,8 +486,13 @@ https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616165
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616166
 #EXTINF: -1 tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sport Indo", ASP 4
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616167
-#EXTINF: -1 tvg-id="815" tvg-name="[MY] ASTRO ASSP5 HD" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sport Indo", [MY] ASTRO ASSP5 HD
-https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616168
+
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c 
+#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sport",ASTRO SUPERSPORT 5 
+https://malayshelby.herokuapp.com/dash-wv/linear/5059/default_ott.mpd
+
+
+
 #EXTINF: -1 group-title="Sport Indo", SPORTTV 1
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616169
 #EXTINF: -1 group-title="Sport Indo", SPORTTV 2
