@@ -15,6 +15,8 @@ https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549920
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549921
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE7
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/607549922
+#EXTINF: -1 tvg-logo="https://www.dropbox.com/s/ov652t58ll9g14h/Zorro-flaming-icon.jpg?dl=1" group-title="LIVE", LIVE 8
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/608645470
 
 #EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 1
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606615940
@@ -144,6 +146,9 @@ https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616001
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616002
 #EXTINF: -1 tvg-logo="TEST" group-title="INDO", JTV
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616003
+
+#EXTINF: -1 group-title="VIDIO", MENTARITV
+https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/610363135
 #EXTINF: -1 tvg-id=".SHINTA" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="VIDIO", SCTV
 https://m3u-editor.com/serve/2da70ec0-1076-11ed-8c6b-c9e08e60b25f/606616004
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="VIDIO", INDOSIAR
