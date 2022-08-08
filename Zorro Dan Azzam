@@ -644,8 +644,9 @@ https://m3u-editor.com/serve/a97b5390-16c2-11ed-9c2e-75195d5fa909/611900910
 https://m3u-editor.com/serve/a97b5390-16c2-11ed-9c2e-75195d5fa909/611900911
 #EXTINF: -1 tvg-name="HBOSignature.id" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="movie", Cinemax 3
 https://m3u-editor.com/serve/a97b5390-16c2-11ed-9c2e-75195d5fa909/611900912
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/hbo.png" group-title="movie",HBO 
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #EXTINF: -1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="movie", HBO FHD
 https://m3u-editor.com/serve/a97b5390-16c2-11ed-9c2e-75195d5fa909/611900913
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="movie", HBO 2
