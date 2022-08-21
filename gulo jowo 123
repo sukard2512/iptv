@@ -862,120 +862,287 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/waku2japan.png" group-title="KNOWLEDGE +",WAKU2 JAPAN
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
-#EXTINF: -1 group-title="MALAYSIA", AWESOME TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429941
-#EXTINF: -1 group-title="MALAYSIA", AWESOME TV BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429942
-#EXTINF: -1 tvg-id="241" tvg-name="[MY] Astro Box Office Movies Thangathirai" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_bom_thangathirai.png" group-title="MALAYSIA", [MY] Astro Box Office Movies Thangathirai
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429943
-#EXTINF: -1 tvg-name="MY178:ABO Tayangan Hebat" group-title="MALAYSIA", MY178:ABO Tayangan Hebat
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429944
-#EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429945
-#EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429946
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429947
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429948
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-ikim.png" group-title="MALAYSIA", IKIM
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429949
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-prima.png" group-title="MALAYSIA", ASTRO PRIMA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429950
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-prima.png" group-title="MALAYSIA", ASTRO PRIMA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429951
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="MALAYSIA", NAURA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429952
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="MALAYSIA", NAURA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429953
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hello.png" group-title="MALAYSIA", HELLO
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429954
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-1.png" group-title="MALAYSIA", TV1
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429955
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv2.png" group-title="MALAYSIA", TV2
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429956
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", TV3
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429957
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", TV3 BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429958
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CERIA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429959
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CERIA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429960
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOO
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429961
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOO BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429962
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", TV9
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429963
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", AURA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429964
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CITRA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429965
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CITRA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429966
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", OASIS
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429967
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", OASIS BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429968
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOLLYONE
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429969
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOLLYONE BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429970
-#EXTINF: -1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5b79d07a6bc50bc8ebebd635cb09c195.png" group-title="MALAYSIA", ASTRO Warna HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429971
-#EXTINF: -1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA", ASTRO Rania HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429972
-#EXTINF: -1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA", ASTRO Rania HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429973
-#EXTINF: -1 tvg-id="114" tvg-name="[MY] TV ALHIJRAH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="MALAYSIA", [MY] TV ALHIJRAH
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429974
-#EXTINF: -1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/5f0b2fcdea4c1ae4db0247a7048f9195.png" group-title="MALAYSIA", ASTRO AEC HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429975
-#EXTINF: -1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/5f0b2fcdea4c1ae4db0247a7048f9195.png" group-title="MALAYSIA", ASTRO AEC HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429976
-#EXTINF: -1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/d009936ac07ce93aff60ca243a935867.png" group-title="MALAYSIA", ASTRO Colors Tamil
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429977
-#EXTINF: -1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/d267f5fc09422eb151ff69f3002b7550.jpg" group-title="MALAYSIA", ASTRO Zee Tamil HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429978
-#EXTINF: -1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/3371512e9f93371e840eec878d604870.png" group-title="MALAYSIA", ASTRO Vinmeen HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429979
-#EXTINF: -1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="MALAYSIA", ASTRO Vaanavil HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429980
-#EXTINF: -1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="MALAYSIA", ASTRO Vaanavil HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429981
-#EXTINF: -1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/c2c744578467373139832ca2489e0121.jpg" group-title="MALAYSIA", Makkal TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429982
-#EXTINF: -1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/c2c744578467373139832ca2489e0121.jpg" group-title="MALAYSIA", Makkal TV BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429983
-#EXTINF: -1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/ba3214fc268f0828141fd6fbe4d1f772.png" group-title="MALAYSIA", ASTRO Sun TV HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429984
-#EXTINF: -1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/ba3214fc268f0828141fd6fbe4d1f772.png" group-title="MALAYSIA", ASTRO Sun TV HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429985
-#EXTINF: -1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/1250cc23dba5827d4c03bac3b6c87ec8.jpg" group-title="MALAYSIA", ASTRO Star Vijay HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429986
-#EXTINF: -1 tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="MALAYSIA", Jaya Max
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429987
-#EXTINF: -1 tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="MALAYSIA", Jaya Max BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429988
-#EXTINF: -1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="http://tvmalaysia.cc:80/images/d90c7221dddda72c2f4d12da068abbd5.jpg" group-title="MALAYSIA", Chutti TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429989
-#EXTINF: -1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="MALAYSIA", ASTRO Hua Hee Dai HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429990
-#EXTINF: -1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="MALAYSIA", ASTRO Quan Jia HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429991
-#EXTINF: -1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="MALAYSIA", ASTRO Shuang Xing HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429992
-#EXTINF: -1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="MALAYSIA", ASTRO TVIQ
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429993
-#EXTINF: -1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="MALAYSIA", ASTRO Xiao Tai Yang HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429994
-#EXTINF: -1 tvg-id="MY: 8TV" tvg-name="BBC Lifestyle" tvg-logo="https://i.postimg.cc/d3Q0tYzh/download-24.jpg" group-title="MALAYSIA", BBC Lifestyle
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429995
-#EXTINF: -1 tvg-id="bernamatv.my" tvg-name="Bernama News" tvg-logo="http://tvmalaysia.cc:80/images/66cfaeb3b92798abc7f201264d9b332d.jpg" group-title="MALAYSIA", Bernama News
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429996
-#EXTINF: -1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="https://i.postimg.cc/j5KLF94S/logog.png" group-title="MALAYSIA", Bloomberg TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429997
+#EXTINF: -1 tvg-name="MY001:TV 1" group-title="Malaysia", MY001:TV 1
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030804
+#EXTINF: -1 tvg-name="MY002:TV 2" group-title="Malaysia", MY002:TV 2
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030805
+#EXTINF: -1 tvg-name="MY003:TV 3" group-title="Malaysia", MY003:TV 3
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030806
+#EXTINF: -1 tvg-name="MY004:NTV 7" group-title="Malaysia", MY004:NTV 7
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030807
+#EXTINF: -1 tvg-name="MY005:TV 8" group-title="Malaysia", MY005:TV 8
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030808
+#EXTINF: -1 tvg-name="MY006:TV 9" group-title="Malaysia", MY006:TV 9
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030809
+#EXTINF: -1 tvg-name="MY007:QUAN JIA" group-title="Malaysia", MY007:QUAN JIA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030810
+#EXTINF: -1 tvg-name="MY008:SHUANG XING" group-title="Malaysia", MY008:SHUANG XING
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030811
+#EXTINF: -1 tvg-name="MY009:Wah Lai Toi" group-title="Malaysia", MY009:Wah Lai Toi
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030812
+#EXTINF: -1 tvg-name="MY010:HUA HEE DAI" group-title="Malaysia", MY010:HUA HEE DAI
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030813
+#EXTINF: -1 tvg-name="MY011:AOD" group-title="Malaysia", MY011:AOD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030814
+#EXTINF: -1 tvg-name="MY012:AEC" group-title="Malaysia", MY012:AEC
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030815
+#EXTINF: -1 tvg-name="MY013:Super Sport 1" group-title="Malaysia", MY013:Super Sport 1
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030816
+#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" group-title="Malaysia", MY014:Super Sport 2
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030817
+#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" group-title="Malaysia", MY015:Super Sport 3
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030818
+#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" group-title="Malaysia", MY016:Super Sport 4
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030819
+#EXTINF: -1 tvg-name="MY017:CELESTIAL" group-title="Malaysia", MY017:CELESTIAL
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030820
+#EXTINF: -1 tvg-name="MY018:BERNAMA" group-title="Malaysia", MY018:BERNAMA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030821
+#EXTINF: -1 tvg-name="MY020:Star Chinese Channel" group-title="Malaysia", MY020:Star Chinese Channel
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030822
+#EXTINF: -1 tvg-name="MY021:XIAO TAI YANG" group-title="Malaysia", MY021:XIAO TAI YANG
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030823
+#EXTINF: -1 tvg-name="MY022:SCM Legend" group-title="Malaysia", MY022:SCM Legend
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030824
+#EXTINF: -1 tvg-name="MY023:TVB CLASSIC" group-title="Malaysia", MY023:TVB CLASSIC
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030825
+#EXTINF: -1 tvg-name="MY029:WARNA" group-title="Malaysia", MY029:WARNA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030826
+#EXTINF: -1 tvg-name="MY030:RIA" group-title="Malaysia", MY030:RIA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030827
+#EXTINF: -1 tvg-name="MY031:AWANI" group-title="Malaysia", MY031:AWANI
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030828
+#EXTINF: -1 tvg-name="MY034:OASIS" group-title="Malaysia", MY034:OASIS
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030829
+#EXTINF: -1 tvg-name="MY035:Suria" group-title="Malaysia", MY035:Suria
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030830
+#EXTINF: -1 tvg-name="MY037:WWE" group-title="Malaysia", MY037:WWE
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030831
+#EXTINF: -1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" group-title="Malaysia", MY038:BOO
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030832
+#EXTINF: -1 tvg-name="SG002:Channel 8" group-title="Malaysia", SG002:Channel 8
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030833
+#EXTINF: -1 tvg-name="SG003:Channel U" group-title="Malaysia", SG003:Channel U
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030834
+#EXTINF: -1 tvg-name="MY043:ASTRO ASSP4 HD" group-title="Malaysia", MY043:ASTRO ASSP4 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030835
+#EXTINF: -1 tvg-name="MY042:ASTRO ASSP3 HD" group-title="Malaysia", MY042:ASTRO ASSP3 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030836
+#EXTINF: -1 tvg-name="MY040:ASTRO ASSP HD" group-title="Malaysia", MY040:ASTRO ASSP HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030837
+#EXTINF: -1 tvg-name="MY041:ASTRO ASSP2 HD" group-title="Malaysia", MY041:ASTRO ASSP2 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030838
+#EXTINF: -1 tvg-name="MY042:ASTRO PRIMA HD" group-title="Malaysia", MY042:ASTRO PRIMA HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030839
+#EXTINF: -1 tvg-name="MY043:ASTRO OASIS HD" group-title="Malaysia", MY043:ASTRO OASIS HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030840
+#EXTINF: -1 tvg-name="MY045:ASTRO NAURA" group-title="Malaysia", MY045:ASTRO NAURA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030841
+#EXTINF: -1 tvg-name="MY046:TV ALHIJRAH" group-title="Malaysia", MY046:TV ALHIJRAH
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030842
+#EXTINF: -1 tvg-name="MY047:GO SHOP RUUMA" group-title="Malaysia", MY047:GO SHOP RUUMA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030843
+#EXTINF: -1 tvg-name="MY048:GO SHOP GAAYA" group-title="Malaysia", MY048:GO SHOP GAAYA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030844
+#EXTINF: -1 tvg-name="MY049:VAANAVIL" group-title="Malaysia", MY049:VAANAVIL
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030845
+#EXTINF: -1 tvg-name="MY050:MAKKAL TV" group-title="Malaysia", MY050:MAKKAL TV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030846
+#EXTINF: -1 tvg-name="MY051:SUN MUSIC" group-title="Malaysia", MY051:SUN MUSIC
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030847
+#EXTINF: -1 tvg-name="MY052:CHUTTI TV" group-title="Malaysia", MY052:CHUTTI TV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030848
+#EXTINF: -1 tvg-name="MY053:ADITHYA" group-title="Malaysia", MY053:ADITHYA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030849
+#EXTINF: -1 tvg-name="MY054:ZEE Tamil HD" group-title="Malaysia", MY054:ZEE Tamil HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030850
+#EXTINF: -1 tvg-name="MY055:VINMEEN HD" group-title="Malaysia", MY055:VINMEEN HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030851
+#EXTINF: -1 tvg-name="MY056:STAR VIJAY HD" group-title="Malaysia", MY056:STAR VIJAY HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030852
+#EXTINF: -1 tvg-name="MY057:COLORS TAMIL" group-title="Malaysia", MY057:COLORS TAMIL
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030853
+#EXTINF: -1 tvg-name="MY058:SUN TV HD" group-title="Malaysia", MY058:SUN TV HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030854
+#EXTINF: -1 tvg-name="MY059:BOLLYONE HD" group-title="Malaysia", MY059:BOLLYONE HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030855
+#EXTINF: -1 tvg-name="MY060:iQIYI HD" group-title="Malaysia", MY060:iQIYI HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030856
+#EXTINF: -1 tvg-name="MY061:GO SHOP 2" group-title="Malaysia", MY061:GO SHOP 2
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030857
+#EXTINF: -1 tvg-name="MY067:WLT | JADE" group-title="Malaysia", MY067:WLT | JADE
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030858
+#EXTINF: -1 tvg-name="MY069:CTI ASIA" group-title="Malaysia", MY069:CTI ASIA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030859
+#EXTINF: -1 tvg-name="MY070:TVB E-NEWS" group-title="Malaysia", MY070:TVB E-NEWS
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030860
+#EXTINF: -1 tvg-name="MY071:TVB XING HE HD" group-title="Malaysia", MY071:TVB XING HE HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030861
+#EXTINF: -1 tvg-name="MY072:TVBS ASIA HD" group-title="Malaysia", MY072:TVBS ASIA HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030862
+#EXTINF: -1 tvg-name="MY073:CCM" group-title="Malaysia", MY073:CCM
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030863
+#EXTINF: -1 tvg-name="MY075:CCTV4 HD" group-title="Malaysia", MY075:CCTV4 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030864
+#EXTINF: -1 tvg-name="MY076:AOD 352 HD" group-title="Malaysia", MY076:AOD 352 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030865
+#EXTINF: -1 tvg-name="MY077:AOD 353 HD" group-title="Malaysia", MY077:AOD 353 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030866
+#EXTINF: -1 tvg-name="MY078:AOD 354 HD" group-title="Malaysia", MY078:AOD 354 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030867
+#EXTINF: -1 tvg-name="MY079:AOD 355 HD" group-title="Malaysia", MY079:AOD 355 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030868
+#EXTINF: -1 tvg-name="MY080:KBS World HD" group-title="Malaysia", MY080:KBS World HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030869
+#EXTINF: -1 tvg-name="MY081:ONE HD" group-title="Malaysia", MY081:ONE HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030870
+#EXTINF: -1 tvg-name="MY082:Oh!K HD" group-title="Malaysia", MY082:Oh!K HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030871
+#EXTINF: -1 tvg-name="MY083:tvN HD" group-title="Malaysia", MY083:tvN HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030872
+#EXTINF: -1 tvg-name="MY084:HITS MOVIES HD" group-title="Malaysia", MY084:HITS MOVIES HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030873
+#EXTINF: -1 tvg-name="MY085:HBO Hits" group-title="Malaysia", MY085:HBO Hits
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030874
+#EXTINF: -1 tvg-name="MY086:CINEMAX HD" group-title="Malaysia", MY086:CINEMAX HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030875
+#EXTINF: -1 tvg-name="MY087:tvN Movies" group-title="Malaysia", MY087:tvN Movies
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030876
+#EXTINF: -1 tvg-name="MY088:ASTRO AWANI" group-title="Malaysia", MY088:ASTRO AWANI
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030877
+#EXTINF: -1 tvg-name="MY089:BNC" group-title="Malaysia", MY089:BNC
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030878
+#EXTINF: -1 tvg-name="MY090:BBC News HD" group-title="Malaysia", MY090:BBC News HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030879
+#EXTINF: -1 tvg-name="MY091:AL JAZEERA HD" group-title="Malaysia", MY091:AL JAZEERA HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030880
+#EXTINF: -1 tvg-name="MY092:SKY NEWS HD" group-title="Malaysia", MY092:SKY NEWS HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030881
+#EXTINF: -1 tvg-name="MY093:CNA HD" group-title="Malaysia", MY093:CNA HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030882
+#EXTINF: -1 tvg-name="MY094:CNBC" group-title="Malaysia", MY094:CNBC
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030883
+#EXTINF: -1 tvg-name="MY095:BLOOMBERG TV" group-title="Malaysia", MY095:BLOOMBERG TV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030884
+#EXTINF: -1 tvg-name="MY096:ABC AUSTRALIA" group-title="Malaysia", MY096:ABC AUSTRALIA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030885
+#EXTINF: -1 tvg-name="MY097:8TV" group-title="Malaysia", MY097:8TV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030886
+#EXTINF: -1 tvg-name="MY099:DISCOVERY HD" group-title="Malaysia", MY099:DISCOVERY HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030887
+#EXTINF: -1 tvg-name="MY100:DISCOVERY ASIA" group-title="Malaysia", MY100:DISCOVERY ASIA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030888
+#EXTINF: -1 tvg-name="MY101:Discovery Science" group-title="Malaysia", MY101:Discovery Science
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030889
+#EXTINF: -1 tvg-name="MY102:HISTORY HD" group-title="Malaysia", MY102:HISTORY HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030890
+#EXTINF: -1 tvg-name="MY103:ANIMAL PLANET HD" group-title="Malaysia", MY103:ANIMAL PLANET HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030891
+#EXTINF: -1 tvg-name="MY104:TUTOR TV UPSR" group-title="Malaysia", MY104:TUTOR TV UPSR
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030892
+#EXTINF: -1 tvg-name="MY105:TUTOR TV PT3" group-title="Malaysia", MY105:TUTOR TV PT3
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030893
+#EXTINF: -1 tvg-name="MY106:TUTOR TV SPM" group-title="Malaysia", MY106:TUTOR TV SPM
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030894
+#EXTINF: -1 tvg-name="MY107:TVIQ" group-title="Malaysia", MY107:TVIQ
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030895
+#EXTINF: -1 tvg-name="MY108:ASTRO CERIA HD" group-title="Malaysia", MY108:ASTRO CERIA HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030896
+#EXTINF: -1 tvg-name="MY112:CARTOON NTWK HD" group-title="Malaysia", MY112:CARTOON NTWK HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030897
+#EXTINF: -1 tvg-name="MY113:NICKELODEON HD" group-title="Malaysia", MY113:NICKELODEON HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030898
+#EXTINF: -1 tvg-name="MY114:NICK JR" group-title="Malaysia", MY114:NICK JR
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030899
+#EXTINF: -1 tvg-name="MY115:AXN HD" group-title="Malaysia", MY115:AXN HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030900
+#EXTINF: -1 tvg-name="MY116:Phoenix" group-title="Malaysia", MY116:Phoenix
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030901
+#EXTINF: -1 tvg-name="MY117:HITS HD" group-title="Malaysia", MY117:HITS HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030902
+#EXTINF: -1 tvg-name="MY118:TLC HD" group-title="Malaysia", MY118:TLC HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030903
+#EXTINF: -1 tvg-name="MY119:FOOD NTWK HD" group-title="Malaysia", MY119:FOOD NTWK HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030904
+#EXTINF: -1 tvg-name="MY120:AFN HD" group-title="Malaysia", MY120:AFN HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030905
+#EXTINF: -1 tvg-name="MY122:WARNER TV" group-title="Malaysia", MY122:WARNER TV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030906
+#EXTINF: -1 tvg-name="MY123:C&I HD" group-title="Malaysia", MY123:C&I HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030907
+#EXTINF: -1 tvg-name="MY124:HGTV HD" group-title="Malaysia", MY124:HGTV HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030908
+#EXTINF: -1 tvg-name="MY125:DMAX HD" group-title="Malaysia", MY125:DMAX HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030909
+#EXTINF: -1 tvg-name="MY126:COMEDY CENTRAL" group-title="Malaysia", MY126:COMEDY CENTRAL
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030910
+#EXTINF: -1 tvg-name="MY127:MTV" group-title="Malaysia", MY127:MTV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030911
+#EXTINF: -1 tvg-name="MY128:ANIMAX" group-title="Malaysia", MY128:ANIMAX
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030912
+#EXTINF: -1 tvg-name="MY129:eGG Network" group-title="Malaysia", MY129:eGG Network
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030913
+#EXTINF: -1 tvg-name="MY130:ASTRO ARENA HD" group-title="Malaysia", MY130:ASTRO ARENA HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030914
+#EXTINF: -1 tvg-name="MY132:beIN SPORTS" group-title="Malaysia", MY132:beIN SPORTS
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030915
+#EXTINF: -1 tvg-name="MY133:bEIN MAX" group-title="Malaysia", MY133:bEIN MAX
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030916
+#EXTINF: -1 tvg-name="MY134:EUROSPORT HD" group-title="Malaysia", MY134:EUROSPORT HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030917
+#EXTINF: -1 tvg-name="MY135:GOLF CHANNEL HD" group-title="Malaysia", MY135:GOLF CHANNEL HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030918
+#EXTINF: -1 tvg-name="MY136:Astro Rugby Pass" group-title="Malaysia", MY136:Astro Rugby Pass
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030919
+#EXTINF: -1 tvg-name="MY137:ASTRO CRICKET" group-title="Malaysia", MY137:ASTRO CRICKET
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030920
+#EXTINF: -1 tvg-name="MY138:ANIPLUS HD" group-title="Malaysia", MY138:ANIPLUS HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030921
+#EXTINF: -1 tvg-name="MY139:KPLUS HD" group-title="Malaysia", MY139:KPLUS HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030922
+#EXTINF: -1 tvg-name="MY140:DW HD" group-title="Malaysia", MY140:DW HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030923
+#EXTINF: -1 tvg-name="MY141:FRANCE24 HD" group-title="Malaysia", MY141:FRANCE24 HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030924
+#EXTINF: -1 tvg-name="MY146:TA-DAA" group-title="Malaysia", MY146:TA-DAA
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030925
+#EXTINF: -1 tvg-name="MY147:BBC Earth HD" group-title="Malaysia", MY147:BBC Earth HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030926
+#EXTINF: -1 tvg-name="MY148:BBC Lifestyle" group-title="Malaysia", MY148:BBC Lifestyle
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030927
+#EXTINF: -1 tvg-name="MY150:Blue Ant Extreme" group-title="Malaysia", MY150:Blue Ant Extreme
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030928
+#EXTINF: -1 tvg-name="MY151:Boomerang HD" group-title="Malaysia", MY151:Boomerang HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030929
+#EXTINF: -1 tvg-name="MY153:Colors Cineplex" group-title="Malaysia", MY153:Colors Cineplex
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030930
+#EXTINF: -1 tvg-name="MY158:FX Cinema HD" group-title="Malaysia", MY158:FX Cinema HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030931
+#EXTINF: -1 tvg-name="MY162:ABO Movie Thangathirai" group-title="Malaysia", MY162:ABO Movie Thangathirai
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030932
+#EXTINF: -1 tvg-name="MY164:Paramount Channel" group-title="Malaysia", MY164:Paramount Channel
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030933
+#EXTINF: -1 tvg-name="MY166:Luxe TV" group-title="Malaysia", MY166:Luxe TV
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030934
+#EXTINF: -1 tvg-name="MY168:SCM" group-title="Malaysia", MY168:SCM
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030935
+#EXTINF: -1 tvg-name="MY169:SETi Chinese" group-title="Malaysia", MY169:SETi Chinese
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030936
+#EXTINF: -1 tvg-name="MY175:Astro Rania HD" group-title="Malaysia", MY175:Astro Rania HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030937
+#EXTINF: -1 tvg-name="MY176:Astro Aura HD" group-title="Malaysia", MY176:Astro Aura HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030938
+#EXTINF: -1 tvg-name="MY177:ASTRO Citra HD" group-title="Malaysia", MY177:ASTRO Citra HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030939
+#EXTINF: -1 tvg-name="MY178:ABO Tayangan Hebat" group-title="Malaysia", MY178:ABO Tayangan Hebat
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030940
+#EXTINF: -1 tvg-name="MY179:TVS" group-title="Malaysia", MY179:TVS
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030941
+#EXTINF: -1 tvg-name="MY180:ASTRO ASSP Plus HD" group-title="Malaysia", MY180:ASTRO ASSP Plus HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030942
+#EXTINF: -1 tvg-name="MY019:Kix HD" group-title="Malaysia", MY019:Kix HD
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/621030943
+
 #EXTINF: -1 group-title="IPTV", JakTV
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429998
 #EXTINF: -1 group-title="IPTV", Nusantara TV
@@ -2662,120 +2829,10 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/besmart.jpg" group-title="TV--Indonesia  1",Besmart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF: -1 group-title="MALAYSIA", AWESOME TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429941
-#EXTINF: -1 group-title="MALAYSIA", AWESOME TV BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429942
-#EXTINF: -1 tvg-id="241" tvg-name="[MY] Astro Box Office Movies Thangathirai" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_bom_thangathirai.png" group-title="MALAYSIA", [MY] Astro Box Office Movies Thangathirai
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429943
-#EXTINF: -1 tvg-name="MY178:ABO Tayangan Hebat" group-title="MALAYSIA", MY178:ABO Tayangan Hebat
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429944
-#EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429945
-#EXTINF: -1 group-title="MALAYSIA", DRAMA SANGAT BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429946
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429947
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-awani.png" group-title="MALAYSIA", ASTRO AWANI BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429948
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-ikim.png" group-title="MALAYSIA", IKIM
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429949
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-prima.png" group-title="MALAYSIA", ASTRO PRIMA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429950
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/astro-prima.png" group-title="MALAYSIA", ASTRO PRIMA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429951
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="MALAYSIA", NAURA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429952
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/naura.png" group-title="MALAYSIA", NAURA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429953
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/hello.png" group-title="MALAYSIA", HELLO
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429954
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv-1.png" group-title="MALAYSIA", TV1
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429955
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/tv2.png" group-title="MALAYSIA", TV2
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429956
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", TV3
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429957
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", TV3 BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429958
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CERIA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429959
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CERIA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429960
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOO
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429961
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOO BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429962
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", TV9
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429963
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", AURA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429964
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CITRA
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429965
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", CITRA BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429966
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", OASIS
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429967
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", OASIS BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429968
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOLLYONE
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429969
-#EXTINF: -1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA", ASTRO BOLLYONE BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429970
-#EXTINF: -1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5b79d07a6bc50bc8ebebd635cb09c195.png" group-title="MALAYSIA", ASTRO Warna HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429971
-#EXTINF: -1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA", ASTRO Rania HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429972
-#EXTINF: -1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA", ASTRO Rania HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429973
-#EXTINF: -1 tvg-id="114" tvg-name="[MY] TV ALHIJRAH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="MALAYSIA", [MY] TV ALHIJRAH
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429974
-#EXTINF: -1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/5f0b2fcdea4c1ae4db0247a7048f9195.png" group-title="MALAYSIA", ASTRO AEC HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429975
-#EXTINF: -1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/5f0b2fcdea4c1ae4db0247a7048f9195.png" group-title="MALAYSIA", ASTRO AEC HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429976
-#EXTINF: -1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/d009936ac07ce93aff60ca243a935867.png" group-title="MALAYSIA", ASTRO Colors Tamil
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429977
-#EXTINF: -1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/d267f5fc09422eb151ff69f3002b7550.jpg" group-title="MALAYSIA", ASTRO Zee Tamil HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429978
-#EXTINF: -1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/3371512e9f93371e840eec878d604870.png" group-title="MALAYSIA", ASTRO Vinmeen HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429979
-#EXTINF: -1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="MALAYSIA", ASTRO Vaanavil HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429980
-#EXTINF: -1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="MALAYSIA", ASTRO Vaanavil HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429981
-#EXTINF: -1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/c2c744578467373139832ca2489e0121.jpg" group-title="MALAYSIA", Makkal TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429982
-#EXTINF: -1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/c2c744578467373139832ca2489e0121.jpg" group-title="MALAYSIA", Makkal TV BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429983
-#EXTINF: -1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/ba3214fc268f0828141fd6fbe4d1f772.png" group-title="MALAYSIA", ASTRO Sun TV HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429984
-#EXTINF: -1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/ba3214fc268f0828141fd6fbe4d1f772.png" group-title="MALAYSIA", ASTRO Sun TV HD BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429985
-#EXTINF: -1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/1250cc23dba5827d4c03bac3b6c87ec8.jpg" group-title="MALAYSIA", ASTRO Star Vijay HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429986
-#EXTINF: -1 tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="MALAYSIA", Jaya Max
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429987
-#EXTINF: -1 tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="MALAYSIA", Jaya Max BACK
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429988
-#EXTINF: -1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="http://tvmalaysia.cc:80/images/d90c7221dddda72c2f4d12da068abbd5.jpg" group-title="MALAYSIA", Chutti TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429989
-#EXTINF: -1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="MALAYSIA", ASTRO Hua Hee Dai HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429990
-#EXTINF: -1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="MALAYSIA", ASTRO Quan Jia HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429991
-#EXTINF: -1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="MALAYSIA", ASTRO Shuang Xing HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429992
-#EXTINF: -1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="MALAYSIA", ASTRO TVIQ
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429993
-#EXTINF: -1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="MALAYSIA", ASTRO Xiao Tai Yang HD
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429994
-#EXTINF: -1 tvg-id="MY: 8TV" tvg-name="BBC Lifestyle" tvg-logo="https://i.postimg.cc/d3Q0tYzh/download-24.jpg" group-title="MALAYSIA", BBC Lifestyle
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429995
-#EXTINF: -1 tvg-id="bernamatv.my" tvg-name="Bernama News" tvg-logo="http://tvmalaysia.cc:80/images/66cfaeb3b92798abc7f201264d9b332d.jpg" group-title="MALAYSIA", Bernama News
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429996
-#EXTINF: -1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="https://i.postimg.cc/j5KLF94S/logog.png" group-title="MALAYSIA", Bloomberg TV
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429997
+
+
+
+
 #EXTINF: -1 group-title="IPTV", JakTV
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429998
 #EXTINF: -1 group-title="IPTV", Nusantara TV
@@ -4141,138 +4198,12 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616432129
 #EXTINF: -1 tvg-name="Zhejiang TV HD CN" group-title="China", Zhejiang TV HD CN
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616432130
 
-#EXTINF: -1 group-title="TV--Malaysia", MY: Animax
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430165
-#EXTINF: -1 group-title="TV--Malaysia", MY: Asian Food Network
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430166
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro AOD 352
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430167
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro AOD 354
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430168
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Aura
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430169
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Awani
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430170
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro BollyOne
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430171
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Ceria
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430172
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Cricket
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430173
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro CTI Asia
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430174
-#EXTINF: -1 group-title="TV--Malaysia", MY: ASTRO iQIYI
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430175
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Oasis
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430176
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Prima
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430177
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Quanjia
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430178
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Rania
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430179
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Ria
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430180
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Ta-Daa!
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430181
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Vaanavil
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430182
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Warna
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430183
-#EXTINF: -1 group-title="TV--Malaysia", MY: Astro Xiao Tai Yang
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430184
-#EXTINF: -1 group-title="TV--Malaysia", MY: AXN
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430185
-#EXTINF: -1 group-title="TV--Malaysia", MY: BBC Earth
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430186
-#EXTINF: -1 group-title="TV--Malaysia", MY: BBC News
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430187
-#EXTINF: -1 group-title="TV--Malaysia", MY: Bernama TV
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430188
-#EXTINF: -1 group-title="TV--Malaysia", MY: Bloomberg
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430189
-#EXTINF: -1 group-title="TV--Malaysia", MY: Boomerang
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430190
-#EXTINF: -1 group-title="TV--Malaysia", MY: BWF TV
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430191
-#EXTINF: -1 group-title="TV--Malaysia", MY: Cartoon Network
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430192
-#EXTINF: -1 group-title="TV--Malaysia", MY: Celestial Movies
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430193
-#EXTINF: -1 group-title="TV--Malaysia", MY: Chutti TV
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430194
-#EXTINF: -1 group-title="TV--Malaysia", MY: Cinema World
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430195
-#EXTINF: -1 group-title="TV--Malaysia", MY: Cinemax
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430196
-#EXTINF: -1 group-title="TV--Malaysia", MY: CNBC Asia
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430197
-#EXTINF: -1 group-title="TV--Malaysia", MY: Colors
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430198
-#EXTINF: -1 group-title="TV--Malaysia", MY: Crime+ Investigation
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430199
-#EXTINF: -1 group-title="TV--Malaysia", MY: Discovery Science
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430200
-#EXTINF: -1 group-title="TV--Malaysia", MY: Disney XD
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430201
-#EXTINF: -1 group-title="TV--Malaysia", MY: DMAX
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430202
-#EXTINF: -1 group-title="TV--Malaysia", MY: Food Network
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430203
-#EXTINF: -1 group-title="TV--Malaysia", MY: Fox Family Movies
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430204
-#EXTINF: -1 group-title="TV--Malaysia", MY: GO SHOP
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430205
-#EXTINF: -1 group-title="TV--Malaysia", MY: HBO
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430206
-#EXTINF: -1 group-title="TV--Malaysia", MY: HGTV Asia
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430207
-#EXTINF: -1 group-title="TV--Malaysia", MY: Hits
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430208
-#EXTINF: -1 group-title="TV--Malaysia", MY: HITS Movies
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430209
-#EXTINF: -1 group-title="TV--Malaysia", MY: KBS World
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430210
-#EXTINF: -1 group-title="TV--Malaysia", MY: KPLUS
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430211
-#EXTINF: -1 group-title="TV--Malaysia", MY: NAT GEO Wild
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430212
-#EXTINF: -1 group-title="TV--Malaysia", MY: Nick Junior
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430213
-#EXTINF: -1 group-title="TV--Malaysia", MY: NTV 7
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430214
-#EXTINF: -1 group-title="TV--Malaysia", MY: ONE
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430215
-#EXTINF: -1 group-title="TV--Malaysia", MY: Phoenix InfoNews
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430216
-#EXTINF: -1 group-title="TV--Malaysia", MY: RTM TV 2
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430217
-#EXTINF: -1 group-title="TV--Malaysia", MY: Sky News
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430218
-#EXTINF: -1 group-title="TV--Malaysia", MY: Sony Channel
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430219
-#EXTINF: -1 group-title="TV--Malaysia", MY: TLC
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430220
-#EXTINF: -1 group-title="TV--Malaysia", MY: TV 1
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430221
-#EXTINF: -1 group-title="TV--Malaysia", MY: TV 3
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430222
-#EXTINF: -1 group-title="TV--Malaysia", MY: TV 9
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430223
-#EXTINF: -1 group-title="TV--Malaysia", MY: TV Alhijrah
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430224
-#EXTINF: -1 group-title="TV--Malaysia", MY: TVB Classic
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430225
-#EXTINF: -1 group-title="TV--Malaysia", MY: TVN
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430226
-#EXTINF: -1 group-title="TV--Malaysia", MY: TVN Movies
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430227
-#EXTINF: -1 group-title="TV--Malaysia", MY: Warner TV
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430228
-#EXTINF: -1 group-title="TV--Malaysia", Cinema World
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430229
-#EXTINF: -1 group-title="TV--Malaysia", CNA
-https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430230
+
+
+
+
+
+
 #EXTINF: -1 group-title="TV--Indonesia", Indosiar
 https://m3u-editor.com/serve/b350f4b0-1c4e-11ed-8a80-e9ab8fd40c85/616430231
 #EXTINF: -1 group-title="TV--Indonesia", Indosiar 1
