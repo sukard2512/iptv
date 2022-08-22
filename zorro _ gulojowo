@@ -1097,286 +1097,199 @@ https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650596
 https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650597
 #EXTINF: -1 group-title="IPTV", HBO FHD
 https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650598
-#EXTINF: -1 tvg-name="MY001:TV 1" group-title="Malaysia", MY001:TV 1
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650599
-#EXTINF: -1 tvg-name="MY002:TV 2" group-title="Malaysia", MY002:TV 2
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650600
-#EXTINF: -1 tvg-name="MY003:TV 3" group-title="Malaysia", MY003:TV 3
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650601
-#EXTINF: -1 tvg-name="MY004:NTV 7" group-title="Malaysia", MY004:NTV 7
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650602
-#EXTINF: -1 tvg-name="MY005:TV 8" group-title="Malaysia", MY005:TV 8
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650603
-#EXTINF: -1 tvg-name="MY006:TV 9" group-title="Malaysia", MY006:TV 9
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650604
-#EXTINF: -1 tvg-name="MY007:QUAN JIA" group-title="Malaysia", MY007:QUAN JIA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650605
-#EXTINF: -1 tvg-name="MY008:SHUANG XING" group-title="Malaysia", MY008:SHUANG XING
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650606
-#EXTINF: -1 tvg-name="MY009:Wah Lai Toi" group-title="Malaysia", MY009:Wah Lai Toi
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650607
-#EXTINF: -1 tvg-name="MY010:HUA HEE DAI" group-title="Malaysia", MY010:HUA HEE DAI
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650608
-#EXTINF: -1 tvg-name="MY011:AOD" group-title="Malaysia", MY011:AOD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650609
-#EXTINF: -1 tvg-name="MY012:AEC" group-title="Malaysia", MY012:AEC
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650610
-#EXTINF: -1 tvg-name="MY013:Super Sport 1" group-title="Malaysia", MY013:Super Sport 1
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650611
-#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" group-title="Malaysia", MY014:Super Sport 2
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650612
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" group-title="Malaysia", MY015:Super Sport 3
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650613
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" group-title="Malaysia", MY016:Super Sport 4
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650614
-#EXTINF: -1 tvg-name="MY017:CELESTIAL" group-title="Malaysia", MY017:CELESTIAL
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650615
-#EXTINF: -1 tvg-name="MY018:BERNAMA" group-title="Malaysia", MY018:BERNAMA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650616
-#EXTINF: -1 tvg-name="MY020:Star Chinese Channel" group-title="Malaysia", MY020:Star Chinese Channel
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650617
-#EXTINF: -1 tvg-name="MY021:XIAO TAI YANG" group-title="Malaysia", MY021:XIAO TAI YANG
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650618
-#EXTINF: -1 tvg-name="MY022:SCM Legend" group-title="Malaysia", MY022:SCM Legend
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650619
-#EXTINF: -1 tvg-name="MY023:TVB CLASSIC" group-title="Malaysia", MY023:TVB CLASSIC
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650620
-#EXTINF: -1 tvg-name="MY029:WARNA" group-title="Malaysia", MY029:WARNA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650621
-#EXTINF: -1 tvg-name="MY030:RIA" group-title="Malaysia", MY030:RIA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650622
-#EXTINF: -1 tvg-name="MY031:AWANI" group-title="Malaysia", MY031:AWANI
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650623
-#EXTINF: -1 tvg-name="MY034:OASIS" group-title="Malaysia", MY034:OASIS
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650624
-#EXTINF: -1 tvg-name="MY035:Suria" group-title="Malaysia", MY035:Suria
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650625
-#EXTINF: -1 tvg-name="MY037:WWE" group-title="Malaysia", MY037:WWE
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650626
-#EXTINF: -1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" group-title="Malaysia", MY038:BOO
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650627
-#EXTINF: -1 tvg-name="SG002:Channel 8" group-title="Malaysia", SG002:Channel 8
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650628
-#EXTINF: -1 tvg-name="SG003:Channel U" group-title="Malaysia", SG003:Channel U
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650629
-#EXTINF: -1 tvg-name="MY043:ASTRO ASSP4 HD" group-title="Malaysia", MY043:ASTRO ASSP4 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650630
-#EXTINF: -1 tvg-name="MY042:ASTRO ASSP3 HD" group-title="Malaysia", MY042:ASTRO ASSP3 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650631
-#EXTINF: -1 tvg-name="MY040:ASTRO ASSP HD" group-title="Malaysia", MY040:ASTRO ASSP HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650632
-#EXTINF: -1 tvg-name="MY041:ASTRO ASSP2 HD" group-title="Malaysia", MY041:ASTRO ASSP2 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650633
-#EXTINF: -1 tvg-name="MY042:ASTRO PRIMA HD" group-title="Malaysia", MY042:ASTRO PRIMA HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650634
-#EXTINF: -1 tvg-name="MY043:ASTRO OASIS HD" group-title="Malaysia", MY043:ASTRO OASIS HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650635
-#EXTINF: -1 tvg-name="MY045:ASTRO NAURA" group-title="Malaysia", MY045:ASTRO NAURA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650636
-#EXTINF: -1 tvg-name="MY046:TV ALHIJRAH" group-title="Malaysia", MY046:TV ALHIJRAH
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650637
-#EXTINF: -1 tvg-name="MY047:GO SHOP RUUMA" group-title="Malaysia", MY047:GO SHOP RUUMA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650638
-#EXTINF: -1 tvg-name="MY048:GO SHOP GAAYA" group-title="Malaysia", MY048:GO SHOP GAAYA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650639
-#EXTINF: -1 tvg-name="MY049:VAANAVIL" group-title="Malaysia", MY049:VAANAVIL
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650640
-#EXTINF: -1 tvg-name="MY050:MAKKAL TV" group-title="Malaysia", MY050:MAKKAL TV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650641
-#EXTINF: -1 tvg-name="MY051:SUN MUSIC" group-title="Malaysia", MY051:SUN MUSIC
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650642
-#EXTINF: -1 tvg-name="MY052:CHUTTI TV" group-title="Malaysia", MY052:CHUTTI TV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650643
-#EXTINF: -1 tvg-name="MY053:ADITHYA" group-title="Malaysia", MY053:ADITHYA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650644
-#EXTINF: -1 tvg-name="MY054:ZEE Tamil HD" group-title="Malaysia", MY054:ZEE Tamil HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650645
-#EXTINF: -1 tvg-name="MY055:VINMEEN HD" group-title="Malaysia", MY055:VINMEEN HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650646
-#EXTINF: -1 tvg-name="MY056:STAR VIJAY HD" group-title="Malaysia", MY056:STAR VIJAY HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650647
-#EXTINF: -1 tvg-name="MY057:COLORS TAMIL" group-title="Malaysia", MY057:COLORS TAMIL
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650648
-#EXTINF: -1 tvg-name="MY058:SUN TV HD" group-title="Malaysia", MY058:SUN TV HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650649
-#EXTINF: -1 tvg-name="MY059:BOLLYONE HD" group-title="Malaysia", MY059:BOLLYONE HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650650
-#EXTINF: -1 tvg-name="MY060:iQIYI HD" group-title="Malaysia", MY060:iQIYI HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650651
-#EXTINF: -1 tvg-name="MY061:GO SHOP 2" group-title="Malaysia", MY061:GO SHOP 2
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650652
-#EXTINF: -1 tvg-name="MY067:WLT | JADE" group-title="Malaysia", MY067:WLT | JADE
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650653
-#EXTINF: -1 tvg-name="MY069:CTI ASIA" group-title="Malaysia", MY069:CTI ASIA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650654
-#EXTINF: -1 tvg-name="MY070:TVB E-NEWS" group-title="Malaysia", MY070:TVB E-NEWS
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650655
-#EXTINF: -1 tvg-name="MY071:TVB XING HE HD" group-title="Malaysia", MY071:TVB XING HE HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650656
-#EXTINF: -1 tvg-name="MY072:TVBS ASIA HD" group-title="Malaysia", MY072:TVBS ASIA HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650657
-#EXTINF: -1 tvg-name="MY073:CCM" group-title="Malaysia", MY073:CCM
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650658
-#EXTINF: -1 tvg-name="MY075:CCTV4 HD" group-title="Malaysia", MY075:CCTV4 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650659
-#EXTINF: -1 tvg-name="MY076:AOD 352 HD" group-title="Malaysia", MY076:AOD 352 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650660
-#EXTINF: -1 tvg-name="MY077:AOD 353 HD" group-title="Malaysia", MY077:AOD 353 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650661
-#EXTINF: -1 tvg-name="MY078:AOD 354 HD" group-title="Malaysia", MY078:AOD 354 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650662
-#EXTINF: -1 tvg-name="MY079:AOD 355 HD" group-title="Malaysia", MY079:AOD 355 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650663
-#EXTINF: -1 tvg-name="MY080:KBS World HD" group-title="Malaysia", MY080:KBS World HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650664
-#EXTINF: -1 tvg-name="MY081:ONE HD" group-title="Malaysia", MY081:ONE HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650665
-#EXTINF: -1 tvg-name="MY082:Oh!K HD" group-title="Malaysia", MY082:Oh!K HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650666
-#EXTINF: -1 tvg-name="MY083:tvN HD" group-title="Malaysia", MY083:tvN HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650667
-#EXTINF: -1 tvg-name="MY084:HITS MOVIES HD" group-title="Malaysia", MY084:HITS MOVIES HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650668
-#EXTINF: -1 tvg-name="MY085:HBO Hits" group-title="Malaysia", MY085:HBO Hits
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650669
-#EXTINF: -1 tvg-name="MY086:CINEMAX HD" group-title="Malaysia", MY086:CINEMAX HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650670
-#EXTINF: -1 tvg-name="MY087:tvN Movies" group-title="Malaysia", MY087:tvN Movies
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650671
-#EXTINF: -1 tvg-name="MY088:ASTRO AWANI" group-title="Malaysia", MY088:ASTRO AWANI
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650672
-#EXTINF: -1 tvg-name="MY089:BNC" group-title="Malaysia", MY089:BNC
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650673
-#EXTINF: -1 tvg-name="MY090:BBC News HD" group-title="Malaysia", MY090:BBC News HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650674
-#EXTINF: -1 tvg-name="MY091:AL JAZEERA HD" group-title="Malaysia", MY091:AL JAZEERA HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650675
-#EXTINF: -1 tvg-name="MY092:SKY NEWS HD" group-title="Malaysia", MY092:SKY NEWS HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650676
-#EXTINF: -1 tvg-name="MY093:CNA HD" group-title="Malaysia", MY093:CNA HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650677
-#EXTINF: -1 tvg-name="MY094:CNBC" group-title="Malaysia", MY094:CNBC
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650678
-#EXTINF: -1 tvg-name="MY095:BLOOMBERG TV" group-title="Malaysia", MY095:BLOOMBERG TV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650679
-#EXTINF: -1 tvg-name="MY096:ABC AUSTRALIA" group-title="Malaysia", MY096:ABC AUSTRALIA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650680
-#EXTINF: -1 tvg-name="MY097:8TV" group-title="Malaysia", MY097:8TV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650681
-#EXTINF: -1 tvg-name="MY099:DISCOVERY HD" group-title="Malaysia", MY099:DISCOVERY HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650682
-#EXTINF: -1 tvg-name="MY100:DISCOVERY ASIA" group-title="Malaysia", MY100:DISCOVERY ASIA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650683
-#EXTINF: -1 tvg-name="MY101:Discovery Science" group-title="Malaysia", MY101:Discovery Science
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650684
-#EXTINF: -1 tvg-name="MY102:HISTORY HD" group-title="Malaysia", MY102:HISTORY HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650685
-#EXTINF: -1 tvg-name="MY103:ANIMAL PLANET HD" group-title="Malaysia", MY103:ANIMAL PLANET HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650686
-#EXTINF: -1 tvg-name="MY104:TUTOR TV UPSR" group-title="Malaysia", MY104:TUTOR TV UPSR
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650687
-#EXTINF: -1 tvg-name="MY105:TUTOR TV PT3" group-title="Malaysia", MY105:TUTOR TV PT3
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650688
-#EXTINF: -1 tvg-name="MY106:TUTOR TV SPM" group-title="Malaysia", MY106:TUTOR TV SPM
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650689
-#EXTINF: -1 tvg-name="MY107:TVIQ" group-title="Malaysia", MY107:TVIQ
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650690
-#EXTINF: -1 tvg-name="MY108:ASTRO CERIA HD" group-title="Malaysia", MY108:ASTRO CERIA HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650691
-#EXTINF: -1 tvg-name="MY112:CARTOON NTWK HD" group-title="Malaysia", MY112:CARTOON NTWK HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650692
-#EXTINF: -1 tvg-name="MY113:NICKELODEON HD" group-title="Malaysia", MY113:NICKELODEON HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650693
-#EXTINF: -1 tvg-name="MY114:NICK JR" group-title="Malaysia", MY114:NICK JR
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650694
-#EXTINF: -1 tvg-name="MY115:AXN HD" group-title="Malaysia", MY115:AXN HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650695
-#EXTINF: -1 tvg-name="MY116:Phoenix" group-title="Malaysia", MY116:Phoenix
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650696
-#EXTINF: -1 tvg-name="MY117:HITS HD" group-title="Malaysia", MY117:HITS HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650697
-#EXTINF: -1 tvg-name="MY118:TLC HD" group-title="Malaysia", MY118:TLC HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650698
-#EXTINF: -1 tvg-name="MY119:FOOD NTWK HD" group-title="Malaysia", MY119:FOOD NTWK HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650699
-#EXTINF: -1 tvg-name="MY120:AFN HD" group-title="Malaysia", MY120:AFN HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650700
-#EXTINF: -1 tvg-name="MY122:WARNER TV" group-title="Malaysia", MY122:WARNER TV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650701
-#EXTINF: -1 tvg-name="MY123:C&I HD" group-title="Malaysia", MY123:C&I HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650702
-#EXTINF: -1 tvg-name="MY124:HGTV HD" group-title="Malaysia", MY124:HGTV HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650703
-#EXTINF: -1 tvg-name="MY125:DMAX HD" group-title="Malaysia", MY125:DMAX HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650704
-#EXTINF: -1 tvg-name="MY126:COMEDY CENTRAL" group-title="Malaysia", MY126:COMEDY CENTRAL
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650705
-#EXTINF: -1 tvg-name="MY127:MTV" group-title="Malaysia", MY127:MTV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650706
-#EXTINF: -1 tvg-name="MY128:ANIMAX" group-title="Malaysia", MY128:ANIMAX
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650707
-#EXTINF: -1 tvg-name="MY129:eGG Network" group-title="Malaysia", MY129:eGG Network
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650708
-#EXTINF: -1 tvg-name="MY130:ASTRO ARENA HD" group-title="Malaysia", MY130:ASTRO ARENA HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650709
-#EXTINF: -1 tvg-name="MY132:beIN SPORTS" group-title="Malaysia", MY132:beIN SPORTS
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650710
-#EXTINF: -1 tvg-name="MY133:bEIN MAX" group-title="Malaysia", MY133:bEIN MAX
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650711
-#EXTINF: -1 tvg-name="MY134:EUROSPORT HD" group-title="Malaysia", MY134:EUROSPORT HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650712
-#EXTINF: -1 tvg-name="MY135:GOLF CHANNEL HD" group-title="Malaysia", MY135:GOLF CHANNEL HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650713
-#EXTINF: -1 tvg-name="MY136:Astro Rugby Pass" group-title="Malaysia", MY136:Astro Rugby Pass
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650714
-#EXTINF: -1 tvg-name="MY137:ASTRO CRICKET" group-title="Malaysia", MY137:ASTRO CRICKET
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650715
-#EXTINF: -1 tvg-name="MY138:ANIPLUS HD" group-title="Malaysia", MY138:ANIPLUS HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650716
-#EXTINF: -1 tvg-name="MY139:KPLUS HD" group-title="Malaysia", MY139:KPLUS HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650717
-#EXTINF: -1 tvg-name="MY140:DW HD" group-title="Malaysia", MY140:DW HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650718
-#EXTINF: -1 tvg-name="MY141:FRANCE24 HD" group-title="Malaysia", MY141:FRANCE24 HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650719
-#EXTINF: -1 tvg-name="MY146:TA-DAA" group-title="Malaysia", MY146:TA-DAA
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650720
-#EXTINF: -1 tvg-name="MY147:BBC Earth HD" group-title="Malaysia", MY147:BBC Earth HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650721
-#EXTINF: -1 tvg-name="MY148:BBC Lifestyle" group-title="Malaysia", MY148:BBC Lifestyle
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650722
-#EXTINF: -1 tvg-name="MY150:Blue Ant Extreme" group-title="Malaysia", MY150:Blue Ant Extreme
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650723
-#EXTINF: -1 tvg-name="MY151:Boomerang HD" group-title="Malaysia", MY151:Boomerang HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650724
-#EXTINF: -1 tvg-name="MY153:Colors Cineplex" group-title="Malaysia", MY153:Colors Cineplex
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650725
-#EXTINF: -1 tvg-name="MY158:FX Cinema HD" group-title="Malaysia", MY158:FX Cinema HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650726
-#EXTINF: -1 tvg-name="MY162:ABO Movie Thangathirai" group-title="Malaysia", MY162:ABO Movie Thangathirai
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650727
-#EXTINF: -1 tvg-name="MY164:Paramount Channel" group-title="Malaysia", MY164:Paramount Channel
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650728
-#EXTINF: -1 tvg-name="MY166:Luxe TV" group-title="Malaysia", MY166:Luxe TV
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650729
-#EXTINF: -1 tvg-name="MY168:SCM" group-title="Malaysia", MY168:SCM
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650730
-#EXTINF: -1 tvg-name="MY169:SETi Chinese" group-title="Malaysia", MY169:SETi Chinese
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650731
-#EXTINF: -1 tvg-name="MY175:Astro Rania HD" group-title="Malaysia", MY175:Astro Rania HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650732
-#EXTINF: -1 tvg-name="MY176:Astro Aura HD" group-title="Malaysia", MY176:Astro Aura HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650733
-#EXTINF: -1 tvg-name="MY177:ASTRO Citra HD" group-title="Malaysia", MY177:ASTRO Citra HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650734
-#EXTINF: -1 tvg-name="MY178:ABO Tayangan Hebat" group-title="Malaysia", MY178:ABO Tayangan Hebat
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650735
-#EXTINF: -1 tvg-name="MY179:TVS" group-title="Malaysia", MY179:TVS
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650736
-#EXTINF: -1 tvg-name="MY180:ASTRO ASSP Plus HD" group-title="Malaysia", MY180:ASTRO ASSP Plus HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650737
-#EXTINF: -1 tvg-name="MY019:Kix HD" group-title="Malaysia", MY019:Kix HD
-https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650738
+
+#EXTINF: -1 group-title="Malaysia", MY:  ANIMAL PLANET
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652631
+#EXTINF: -1 group-title="Malaysia", MY: FOX SPORTS 2 HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652632
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO SUPERSPORTS 1 FHD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652633
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO SUPERSPORTS 2 FHD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652634
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO SUPERSPORTS 3 FHD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652635
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO SUPERSPORTS 4 FHD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652636
+#EXTINF: -1 group-title="Malaysia", MY: ADITHYA
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652637
+#EXTINF: -1 group-title="Malaysia", MY: AFN HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652638
+#EXTINF: -1 group-title="Malaysia", MY: Astro Awani
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652639
+#EXTINF: -1 group-title="Malaysia", MY: Astro CTI Asia
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652640
+#EXTINF: -1 group-title="Malaysia", MY: Astro Hua Hee Dai
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652641
+#EXTINF: -1 group-title="Malaysia", MY: Astro Oasis
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652642
+#EXTINF: -1 group-title="Malaysia", MY: Astro Rania
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652643
+#EXTINF: -1 group-title="Malaysia", MY: Astro RUGBY PASS TV
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652644
+#EXTINF: -1 group-title="Malaysia", MY: Bernama news
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652645
+#EXTINF: -1 group-title="Malaysia", MY: Astro Bollyone
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652646
+#EXTINF: -1 group-title="Malaysia", MY: BBC EARTH HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652647
+#EXTINF: -1 group-title="Malaysia", MY: CHUTTI TV
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652648
+#EXTINF: -1 group-title="Malaysia", MY: COLORS HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652649
+#EXTINF: -1 group-title="Malaysia", MY: DISNEY XD HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652650
+#EXTINF: -1 group-title="Malaysia", MY: GNIX SPORTS HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652651
+#EXTINF: -1 group-title="Malaysia", MY: HITS HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652652
+#EXTINF: -1 group-title="Malaysia", MY: NAT GEO ASIA HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652653
+#EXTINF: -1 group-title="Malaysia", MY: STAR VIJAY HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652654
+#EXTINF: -1 group-title="Malaysia", MY: TV 2
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652655
+#EXTINF: -1 group-title="Malaysia", MY: Tv 8
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652656
+#EXTINF: -1 group-title="Malaysia", MY: TV ALHIJRAH
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652657
+#EXTINF: -1 group-title="Malaysia", MY: WARNER TV HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652658
+#EXTINF: -1 group-title="Malaysia", MY: Viet
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652659
+#EXTINF: -1 group-title="Malaysia", MY: ZEE TAMIL HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652660
+#EXTINF: -1 group-title="Malaysia", MY: Astro CCM
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652661
+#EXTINF: -1 group-title="Malaysia", MY: Astro tvN HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652662
+#EXTINF: -1 group-title="Malaysia", MY: Astro EUROSPORT HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652663
+#EXTINF: -1 group-title="Malaysia", MY: Astro ARENA HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652664
+#EXTINF: -1 group-title="Malaysia", MY: Astro HBO HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652665
+#EXTINF: -1 group-title="Malaysia", MY: Astro HITS MOVIES HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652666
+#EXTINF: -1 group-title="Malaysia", MY: Astro COLORS HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652667
+#EXTINF: -1 group-title="Malaysia", MY: Astro bEIN MAX
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652668
+#EXTINF: -1 group-title="Malaysia", MY: Astro AOD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652669
+#EXTINF: -1 group-title="Malaysia", MY: Astro CCTV4 HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652670
+#EXTINF: -1 group-title="Malaysia", MY: Crime + Investigation HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652671
+#EXTINF: -1 group-title="Malaysia", MY: Astro NAT GEO HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652672
+#EXTINF: -1 group-title="Malaysia", MY: TV 1 HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652673
+#EXTINF: -1 group-title="Malaysia", MY: TV 3
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652674
+#EXTINF: -1 group-title="Malaysia", MY: AXN HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652675
+#EXTINF: -1 group-title="Malaysia", MY: Boomerang HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652676
+#EXTINF: -1 group-title="Malaysia", MY: CINEMA WORLD HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652677
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO Ceria HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652678
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO Colors Tamil
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652679
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO Hello
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652680
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO iQIYI HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652681
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO Prima HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652682
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO Star Vijay HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652683
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO Vaanavil HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652684
+#EXTINF: -1 group-title="Malaysia", MY: ASTRO CELESTIAL Movies HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652685
+#EXTINF: -1 group-title="Malaysia", MY: BBC LIFESTYLE HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652686
+#EXTINF: -1 group-title="Malaysia", MY: Bloomberg TV
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652687
+#EXTINF: -1 group-title="Malaysia", MY: CGTN
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652688
+#EXTINF: -1 group-title="Malaysia", MY: FOX FAMILY MOVIES HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652689
+#EXTINF: -1 group-title="Malaysia", MY: eGG Network
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652690
+#EXTINF: -1 group-title="Malaysia", MY: KBS World HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652691
+#EXTINF: -1 group-title="Malaysia", MY: KPlus HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652692
+#EXTINF: -1 group-title="Malaysia", MY: Makkal TV
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652693
+#EXTINF: -1 group-title="Malaysia", MY: Nat Geo Wild HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652694
+#EXTINF: -1 group-title="Malaysia", MY: NTV7
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652695
+#EXTINF: -1 group-title="Malaysia", MY: SONY SAB APAC Plus
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652696
+#EXTINF: -1 group-title="Malaysia", MY: SONY SETMAX APAC Plus
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652697
+#EXTINF: -1 group-title="Malaysia", MY: TVB CLASSIC
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652698
+#EXTINF: -1 group-title="Malaysia", MY: tvN Movies
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652699
+#EXTINF: -1 group-title="Malaysia", MY: WWE Network
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652700
+#EXTINF: -1 group-title="Malaysia", MY: Astro DW HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652701
+#EXTINF: -1 group-title="Malaysia", MY: Astro FRANCE24 HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652702
+#EXTINF: -1 group-title="Malaysia", MY: Astro Cricket
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652703
+#EXTINF: -1 group-title="Malaysia", MY: ASIAN FOOD CHANNEL
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652704
+#EXTINF: -1 group-title="Malaysia", MY: GO SHOP RUUMA HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652705
+#EXTINF: -1 group-title="Malaysia", MY: PHOENIX HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652706
+#EXTINF: -1 group-title="Malaysia", MY: SkyNet MTV China HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652707
+#EXTINF: -1 group-title="Malaysia", MY: MTV
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652708
+#EXTINF: -1 group-title="Malaysia", MY: EUROSPORT HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652709
+#EXTINF: -1 group-title="Malaysia", MY: CELESTIAL MOVIES HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652710
+#EXTINF: -1 group-title="Malaysia", MY: FOX SPORTS 1 HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652711
+#EXTINF: -1 group-title="Malaysia", MY: VAANAVIL HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652712
+#EXTINF: -1 group-title="Malaysia", MY: DISNEY XD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652713
+#EXTINF: -1 group-title="Malaysia", MY: HGTV HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652714
+#EXTINF: -1 group-title="Malaysia", MY: SkyNet Zing HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652715
+#EXTINF: -1 group-title="Malaysia", MY: DISCOVERY CHANEL HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652716
+#EXTINF: -1 group-title="Malaysia", MY: NICK JR KD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652717
+#EXTINF: -1 group-title="Malaysia", MY: TVBS ASIA HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652718
+#EXTINF: -1 group-title="Malaysia", MY: DMAX HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652719
+#EXTINF: -1 group-title="Malaysia", MY: WLT JADE
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652720
+#EXTINF: -1 group-title="Malaysia", MY: BOLLY ONE HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652721
+#EXTINF: -1 group-title="Malaysia", MY: SkyNet Golf HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652722
+#EXTINF: -1 group-title="Malaysia", MY: GO SHOP GAAYA
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652723
+#EXTINF: -1 group-title="Malaysia", MY: KIX HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652724
+#EXTINF: -1 group-title="Malaysia", MY: TVN HD
+https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621652725
+
+
 #EXTINF: -1 tvg-logo="https://img.freepik.com/free-vector/radio-logo_9850-254.jpg?size=626&ext=jpg" group-title="RADIO", PRAMBORS
 https://m3u-editor.com/serve/45750740-21c3-11ed-8de8-e1af3082b420/621650739
 #EXTINF: -1 tvg-logo="https://img.freepik.com/free-vector/radio-logo_9850-254.jpg?size=626&ext=jpg" group-title="RADIO", NAGASWARA POP
